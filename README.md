@@ -1,3 +1,7 @@
+# UK Tech-for-Good (scaffold)
+
+Directory of UK organisations, projects, networks, and people using technology for public good. Scaffold derived from nz-tech-for-good; entries are being seeded and verified.
+
 # NZ Tech-for-Good
 
 A directory of Aotearoa New Zealand organisations, projects, networks, and
