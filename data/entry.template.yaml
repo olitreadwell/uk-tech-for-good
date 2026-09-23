@@ -1,9 +1,8 @@
 # Template for a new directory entry.
 #
 # Copy this file to data/entries/<slug>.yaml, where <slug> is the
-# organisation's name in lowercase with hyphens instead of spaces
-# (drop macrons in the filename only — keep them in the content below).
-# Example: "Te Hiku Media" -> data/entries/te-hiku-media.yaml
+# organisation's name in lowercase with hyphens instead of spaces.
+# Example: "Open Data Institute" -> data/entries/open-data-institute.yaml
 #
 # Fill in every field marked required. Leave optional fields as null,
 # empty string, or empty list if you don't have a verified value —
@@ -24,8 +23,11 @@ domain: ""
 # matters. Write for someone who has never heard of it.
 what: ""
 
-# Required. The NZ region it's based in (e.g. "Auckland", "Wellington"),
-# or "national" if it operates across the country.
+# Required. The UK region it's based in (one of the values in
+# schema/entry.schema.json: london, south-east, south-west,
+# east-of-england, east-midlands, west-midlands, yorkshire-and-the-humber,
+# north-east, north-west, wales, scotland, northern-ireland), or
+# "national" if it operates across the country.
 region: ""
 
 # Its main website URL. Leave as an empty string if it doesn't have one.
@@ -62,7 +64,7 @@ tags: []
 related_to: []
 
 # Required. How you verified this entry — which page you checked, and
-# how (e.g. "orgname.nz homepage, verified 2026-08-05").
+# how (e.g. "orgname.org.uk homepage, verified 2026-09-23").
 source: ""
 
 # Optional. The year the organisation or project was founded, if you

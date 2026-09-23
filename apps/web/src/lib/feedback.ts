@@ -1,5 +1,5 @@
-const SITE_BASE_URL = 'https://nz-tech-for-good.vercel.app';
-const REPO_BASE_URL = 'https://github.com/olitreadwell/nz-tech-for-good';
+const SITE_BASE_URL = 'https://uk-tech-for-good.vercel.app';
+const REPO_BASE_URL = 'https://github.com/olitreadwell/uk-tech-for-good';
 
 export interface EntryFeedbackInput {
   slug: string;

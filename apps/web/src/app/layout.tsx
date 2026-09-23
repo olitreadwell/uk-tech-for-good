@@ -8,18 +8,17 @@ import { BackToTop } from '@/components/BackToTop';
 
 export const metadata: Metadata = {
   title: {
-    template: '%s · NZ Tech-for-Good',
-    default: 'NZ Tech-for-Good',
+    template: '%s · UK Tech-for-Good',
+    default: 'UK Tech-for-Good',
   },
-  description:
-    'A directory of Aotearoa New Zealand organisations using technology for public good.',
+  description: 'A directory of UK organisations using technology for public good.',
   icons: { icon: '/favicon.svg' },
   alternates: { types: { 'application/rss+xml': '/feed.xml' } },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en-NZ">
+    <html lang="en-GB">
       <body className="min-h-screen antialiased flex flex-col">
         <div
           id="scroll-progress"

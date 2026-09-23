@@ -8,7 +8,8 @@ by real examples, not guesses.
 
 Written 2026-08-06 as part of the improvement loop, at the user's request,
 after a newcomer asked "how do I get involved" and found no clear answer on
-this site.
+this site. Ported to the UK directory on 2026-09-23; the UK-specific
+sections are marked in the network notes below.
 
 ## Comparable sites studied
 
@@ -42,10 +43,9 @@ What it does that this repo doesn't:
 
 ### Tech for Good Organisers Network (techforgoodorganisers.uk)
 
-A UK/Ireland network connecting ten local "tech for good" meetup
-communities (Tech For Good London, TechSoup Connect, Digital for Good
-Scotland, and others). Relevant because it shows a concrete, low-friction
-onboarding path:
+A UK and Ireland network connecting local "tech for good" meetup communities,
+including Tech For Good London and Digital for Good Scotland. Relevant
+because it shows a concrete, low-friction onboarding path:
 
 1. Email the coordinator saying you're interested.
 2. Get added to the Slack workspace.
@@ -54,26 +54,9 @@ onboarding path:
 
 That's the whole flow. Three steps, no application form, no interview.
 
-### Digital Aotearoa Collective (digitalaotearoa.github.io/chat)
-
-A real, currently-active NZ community, not a hypothetical. "A civil society
-initiative to connect and welcome all people across Aotearoa New Zealand to
-dream and build better futures, together." Runs a Slack workspace with a
-direct join link, no gatekeeping. Also runs a GitHub org
-(github.com/digitalaotearoa), so it's an open-source-friendly community
-this directory could plausibly link to or even collaborate with.
-
-**This is a candidate directory entry in its own right** (it isn't
-currently in `data/entries/`).
-
-### Tech for Good New Zealand (meetup.com/tech-for-good-new-zealand)
-
-A real, currently-active Auckland-based meetup group, part of the global
-NetSquared network (70+ cities). Free events, open to charities, community
-groups, social enterprises, tech professionals, and digital marketers.
-
-**Also a candidate directory entry** (also not currently in
-`data/entries/`). Directly answers "where do I find the next event."
+**This is a candidate directory entry in its own right** (it is not
+currently in `data/entries/`), and it is the most direct answer to "where do
+I find the next UK event".
 
 ### Catchafire (catchafire.org)
 

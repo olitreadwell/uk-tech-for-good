@@ -16,13 +16,16 @@ class _FakePath:
 
 class TestSlugify:
     def test_lowercases_and_hyphenates(self):
-        assert dataquality.slugify("Te Hiku Media") == "te-hiku-media"
+        assert dataquality.slugify("Open Data Manchester") == "open-data-manchester"
+
+    def test_multi_word_region_name(self):
+        assert dataquality.slugify("Yorkshire and the Humber") == "yorkshire-and-the-humber"
 
     def test_drops_macrons(self):
-        assert dataquality.slugify("Māori Data Sovereignty") == "maori-data-sovereignty"
+        assert dataquality.slugify("Tatauranga Aotearoa") == "tatauranga-aotearoa"
 
     def test_collapses_punctuation_to_single_hyphen(self):
-        assert dataquality.slugify("Access Matters Aotearoa (Access Alliance)") == "access-matters-aotearoa-access-alliance"
+        assert dataquality.slugify("Open Data Institute (ODI)") == "open-data-institute-odi"
 
     def test_strips_leading_and_trailing_hyphens(self):
         assert dataquality.slugify("--Weird Name--") == "weird-name"

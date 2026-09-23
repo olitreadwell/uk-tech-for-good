@@ -46,15 +46,15 @@ class TestResolve:
         assert build_guide.resolve("Org A", names, namemap) == "Org A"
 
     def test_normalised_match_via_namemap(self):
-        names = {"LINZ Data Service (Toitū Te Whenua)"}
-        namemap = {"linz data service": "LINZ Data Service (Toitū Te Whenua)"}
-        assert build_guide.resolve("LINZ Data Service", names, namemap) == "LINZ Data Service (Toitū Te Whenua)"
+        names = {"Open Data Institute (ODI)"}
+        namemap = {"open data institute": "Open Data Institute (ODI)"}
+        assert build_guide.resolve("open data institute", names, namemap) == "Open Data Institute (ODI)"
 
     def test_fuzzy_substring_match(self):
-        names = {"Access Matters Aotearoa (Access Alliance)"}
-        namemap = {"access matters aotearoa": "Access Matters Aotearoa (Access Alliance)"}
-        result = build_guide.resolve("Access Matters", names, namemap)
-        assert result == "Access Matters Aotearoa (Access Alliance)"
+        names = {"Open Innovations (formerly ODI Leeds)"}
+        namemap = {"open innovations": "Open Innovations (formerly ODI Leeds)"}
+        result = build_guide.resolve("Open Innovations", names, namemap)
+        assert result == "Open Innovations (formerly ODI Leeds)"
 
     def test_unresolvable_reference_returns_none(self):
         names = {"Org A"}
