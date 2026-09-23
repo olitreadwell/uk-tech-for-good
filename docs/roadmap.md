@@ -85,6 +85,11 @@ this file that is not ticked is work on top of that starting point.
   `requirements.txt`).
 - [x] Run the link check inside the main CI as advisory only, with a summary
   in the job step summary.
+- [ ] Get the Vercel production build working. The build and tests pass, and
+  the upload step then fails with "Cannot patch preview comments when
+  immutable static file upload is enabled". The NZ repos fail the same way,
+  so this is a shared problem with the Next.js monorepo setup rather than
+  anything specific to this repo.
 - [ ] Wire `scripts/stylecheck.py` into CI. It runs locally today and fails
   on `docs/STYLE.md` violations, but no workflow calls it.
 - [ ] Fix the em dashes in the template-managed docs (`docs/a11y.md`,

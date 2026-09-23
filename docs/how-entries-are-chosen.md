@@ -54,8 +54,9 @@ An entry belongs here if ALL of the following are true:
 
 If you know a group that fits the scope:
 
-1. **Check it's not already listed**: browse [GUIDE.md](../GUIDE.md) or
-   search the [live site](https://uk-tech-for-good.vercel.app/).
+1. **Check it's not already listed**: search [GUIDE.md](../GUIDE.md) or the
+   exports in [`data/exports/`](../data/exports/). The website is not
+   deployed yet, so there is no live search box to use.
 2. **Verify it's active**: check the website resolves and the org is
    still operating.
 3. **Open an issue** using the [add-entry template](../../issues/new?template=add-entry.yml)

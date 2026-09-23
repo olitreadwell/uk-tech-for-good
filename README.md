@@ -35,15 +35,24 @@ purely commercial products. UK organisations only.
 
 ## Status
 
-**The directory is empty and is being seeded.**
+**Early. 34 entries, added on 2026-09-23 and not yet re-checked.**
+
+Each of those entries was read off the organisation's own homepage on the
+day it was added, and the `source` field on each one records which page was
+read. Nothing here has been reviewed by a second person yet, and whole
+domains are still empty. [docs/known-gaps.md](docs/known-gaps.md) lists what
+is missing.
 
 The tooling and site come from
 [nz-tech-for-good](https://github.com/olitreadwell/nz-tech-for-good), with
 the New Zealand data removed and the NZ-specific parts of the taxonomy
 replaced with UK ones (see [Regions](#regions)).
 
-There is nothing to browse yet. The first entries are the next piece of
-work, and [CONTRIBUTING.md](CONTRIBUTING.md) explains how to add one.
+The website is not deployed yet. The Next.js app builds cleanly and passes
+its tests, but the Vercel build fails at the upload step, which is the same
+failure the NZ repos have been hitting. Until that is sorted, the directory
+is the YAML in `data/entries/`, [GUIDE.md](GUIDE.md), and the exports under
+`data/exports/`.
 
 ### Domains
 
