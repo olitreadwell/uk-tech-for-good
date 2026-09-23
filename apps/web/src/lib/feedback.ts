@@ -1,4 +1,4 @@
-const SITE_BASE_URL = 'https://uk-tech-for-good.vercel.app';
+const SITE_BASE_URL = 'https://olitreadwell.github.io/uk-tech-for-good';
 const REPO_BASE_URL = 'https://github.com/olitreadwell/uk-tech-for-good';
 
 export interface EntryFeedbackInput {
