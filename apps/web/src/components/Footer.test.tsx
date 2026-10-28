@@ -1,8 +1,10 @@
-import { render, screen } from '@testing-library/react';
-import { describe, it, expect } from 'vitest';
+import { cleanup, render, screen } from '@testing-library/react';
+import { afterEach, describe, it, expect } from 'vitest';
 import { Footer } from '@/components/Footer';
 
 describe('Footer', () => {
+  afterEach(cleanup);
+
   it('renders footer content', () => {
     render(<Footer />);
     expect(screen.getByText('UK Tech-for-Good')).toBeInTheDocument();
@@ -22,5 +24,10 @@ describe('Footer', () => {
     render(<Footer />);
     expect(screen.getAllByText('JSON Export').length).toBeGreaterThanOrEqual(1);
     expect(screen.getAllByText('CSV Export').length).toBeGreaterThanOrEqual(1);
+  });
+
+  it('shows the latest entry verification instead of the build date', () => {
+    render(<Footer latestVerified="2026-10-20" />);
+    expect(screen.getByText(/Latest entry verification: 2026-10-20/)).toBeInTheDocument();
   });
 });
