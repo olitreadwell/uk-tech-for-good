@@ -1,8 +1,10 @@
-import { render, screen, fireEvent } from '@testing-library/react';
-import { describe, it, expect, vi, beforeAll } from 'vitest';
+import { cleanup, render, screen, fireEvent } from '@testing-library/react';
+import { afterEach, describe, it, expect, vi, beforeAll } from 'vitest';
 import { Header } from '@/components/Header';
 
 describe('Header', () => {
+  afterEach(cleanup);
+
   beforeAll(() => {
     Object.defineProperty(window, 'localStorage', {
       value: {
@@ -13,7 +15,11 @@ describe('Header', () => {
       },
     });
     Object.defineProperty(window, 'matchMedia', {
-      value: vi.fn().mockReturnValue({ matches: false }),
+      value: vi.fn().mockReturnValue({
+        matches: false,
+        addEventListener: vi.fn(),
+        removeEventListener: vi.fn(),
+      }),
     });
   });
   it('renders the site name', () => {
@@ -47,5 +53,40 @@ describe('Header', () => {
     fireEvent.click(btn);
     // After click, localStorage should have been called
     expect(localStorage.setItem).toHaveBeenCalled();
+  });
+
+  it('closes the mobile menu on Escape', () => {
+    render(<Header />);
+    const toggle = screen.getAllByTestId('menu-toggle')[0];
+    fireEvent.click(toggle);
+    expect(toggle).toHaveAttribute('aria-expanded', 'true');
+    fireEvent.keyDown(document, { key: 'Escape' });
+    expect(toggle).toHaveAttribute('aria-expanded', 'false');
+  });
+
+  it('closes the mobile menu when the pointer goes outside the header', () => {
+    render(<Header />);
+    const toggle = screen.getAllByTestId('menu-toggle')[0];
+    fireEvent.click(toggle);
+    expect(toggle).toHaveAttribute('aria-expanded', 'true');
+    fireEvent.pointerDown(document.body);
+    expect(toggle).toHaveAttribute('aria-expanded', 'false');
+  });
+
+  it('follows OS theme changes until the user chooses a theme', () => {
+    let listener: ((event: MediaQueryListEvent) => void) | undefined;
+    Object.defineProperty(window, 'matchMedia', {
+      value: vi.fn().mockReturnValue({
+        matches: false,
+        addEventListener: (_event: string, callback: (event: MediaQueryListEvent) => void) => {
+          listener = callback;
+        },
+        removeEventListener: vi.fn(),
+      }),
+    });
+    localStorage.getItem = vi.fn(() => null);
+    render(<Header />);
+    listener?.({ matches: true } as MediaQueryListEvent);
+    expect(document.documentElement).toHaveClass('dark');
   });
 });

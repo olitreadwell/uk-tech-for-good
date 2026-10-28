@@ -1,5 +1,5 @@
-import { describe, it, expect } from 'vitest';
-import { render, screen, within } from '@testing-library/react';
+import { afterEach, describe, it, expect } from 'vitest';
+import { cleanup, render, screen, within } from '@testing-library/react';
 import { EntryCard } from '@/components/EntryCard';
 
 const baseEntry = {
@@ -8,7 +8,7 @@ const baseEntry = {
   domain: 'civic-tech',
   domainLabel: 'Civic Tech',
   what: 'Test Organisation does important civic tech work in the UK.',
-  region: 'wellington',
+  region: 'london',
   tags: ['civic-tech', 'open-source'],
   founding_year: 2020,
   takes_contributors: true,
@@ -21,6 +21,8 @@ const baseEntry = {
 };
 
 describe('EntryCard', () => {
+  afterEach(cleanup);
+
   it('renders name and description', () => {
     render(<EntryCard {...baseEntry} />);
     expect(screen.getByText('Test Organisation')).toBeInTheDocument();
@@ -41,7 +43,7 @@ describe('EntryCard', () => {
 
   it('shows region and founding year', () => {
     render(<EntryCard {...baseEntry} />);
-    expect(screen.getAllByText('wellington').length).toBeGreaterThanOrEqual(1);
+    expect(screen.getAllByText('london').length).toBeGreaterThanOrEqual(1);
     expect(screen.getAllByText(/Est. 2020/).length).toBeGreaterThanOrEqual(1);
   });
 
