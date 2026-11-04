@@ -1,10 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: { unoptimized: true },
-  // Static export so the site can be served from GitHub Pages at
-  // https://olitreadwell.github.io/uk-tech-for-good/.
   output: 'export',
-  basePath: '/uk-tech-for-good',
+  // Static export served as its own Vercel site at
+  // https://uk-tech-for-good.vercel.app/.
 };
 
 export default nextConfig;

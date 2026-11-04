@@ -1,0 +1,32 @@
+# Configuration for the awesome-list engine. The README is the public list;
+# data/entries/*.yaml stays the structured source for the website.
+name = "UK Tech-for-Good"
+repo_slug = "uk-tech-for-good"
+badge = "default"
+readme = "README.md"
+
+sections = [
+    "Data and knowledge",
+    "Civic and community",
+    "Access and inclusion",
+    "Climate, food and housing",
+    "Work, money and learning",
+]
+
+[site]
+enabled = false
+
+[links]
+archive = "off"
+
+[structure]
+nested_details = false
+
+[github]
+# Most entries link a website, not a repository. Stars would add noise and
+# break the plain-language list, so the stats segment stays off.
+stats = false
+
+[tags]
+# No type or access tags. The list is a plain directory of organisations, and
+# tags would add jargon the reader has to decode.
