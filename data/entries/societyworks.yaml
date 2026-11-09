@@ -1,0 +1,30 @@
+name: "SocietyWorks"
+domain: "govtech"
+what: >-
+  SocietyWorks is a not-for-profit social enterprise owned by the civic technology charity
+  mySociety. It builds and runs open source digital services that help local authorities and other
+  public bodies interact with citizens, including FixMyStreet Pro, WasteWorks and FOIWorks.
+region: "national"
+website: "https://www.societyworks.org/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- govtech
+- open source
+- local government
+- civic tech
+related_to: []
+source: >-
+  https://www.societyworks.org/ and https://www.societyworks.org/about/ (accessed 2026-11-10).
+  name, domain, what, region, website, tags and careers_url verified. what quote: "SocietyWorks is a
+  social enterprise wholly owned by the civic technology charity mySociety." and "citizen-centred,
+  flexible and open source digital solutions". region from "35+ councils and other public sector
+  organisations across the UK". careers_url linked from the homepage and about page as "Careers"
+  and points to mySociety's careers page. last_verified: 2026-11-10.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.mysociety.org/about/careers/"
+last_verified: "2026-11-10"

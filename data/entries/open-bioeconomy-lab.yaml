@@ -1,0 +1,32 @@
+name: "Open Bioeconomy Lab"
+domain: "research / education tech"
+what: >-
+  Open Bioeconomy Lab is an interdisciplinary research group at the University of Cambridge
+  that develops open source biomanufacturing tools and reagents. It works with partners in
+  low-resource settings, particularly in the Global South, to make biological research more
+  accessible.
+region: east-of-england
+website: "https://openbioeconomy.org/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/openbioeconomy"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- open science
+- biotechnology
+- open source
+- research
+related_to: []
+source: >-
+  Homepage, About and Contact pages at https://openbioeconomy.org/,
+  https://openbioeconomy.org/about/ and https://openbioeconomy.org/contact/ (accessed
+  2026-11-10). Supports name, what, region, website and linkedin_org. About quote for what:
+  "Open Bioeconomy Lab is an interdisciplinary research group based in the Department of
+  Chemical Engineering and Biotechnology at the University of Cambridge"; and "We focus on
+  developing open source tools for biotechnology." The homepage and About page linked
+  linkedin_org. The Contact page gives Cambridge, UK as its base for region.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

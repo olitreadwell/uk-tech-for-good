@@ -1,0 +1,32 @@
+name: "Policy Lab"
+domain: "govtech"
+what: >-
+  Policy Lab is a UK government team that works to improve policymaking through design,
+  innovation and people-centred approaches. It runs practical projects and provides digital
+  co-design resources for civil servants, local authorities and communities.
+region: "national"
+website: "https://openpolicy.blog.gov.uk/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/policy-lab-uk"
+community_url: ''
+events_url: "https://openpolicy.blog.gov.uk/category/events/"
+linkedin_people: []
+tags:
+- govtech
+- policy design
+- public sector innovation
+- co-design
+related_to: []
+source: >-
+  https://openpolicy.blog.gov.uk/ and https://openpolicy.blog.gov.uk/about/ (accessed
+  2026-11-10). name, domain, what, region, website, linkedin_org, events_url, tags and
+  founding_year verified. what quote: "Our mission is to radically improve policy making through
+  design, innovation and people-centred approaches." and "The co-design toolkit is a practical set
+  of resources created to enable local authorities and communities to design public services
+  together." founding_year quote: "We were set up in 2014 as part of the Civil Service Reform plan".
+  linkedin_org and events_url linked from the homepage and about page. region from "We work across
+  central and local government departments and agencies". last_verified: 2026-11-10.
+founding_year: 2014
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

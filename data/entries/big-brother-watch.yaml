@@ -1,7 +1,8 @@
 name: Big Brother Watch
 domain: human-rights tech
-what: Big Brother Watch campaigns against threats to privacy and civil liberties in the UK, including state
-  surveillance and the collection of personal data.
+what: >-
+  Big Brother Watch is a UK civil liberties campaign group focused on privacy, surveillance, facial
+  recognition and free speech.
 region: national
 website: https://bigbrotherwatch.org.uk
 github: ''
@@ -15,8 +16,11 @@ tags:
 - surveillance
 - campaigning
 related_to: []
-source: bigbrotherwatch.org.uk homepage (verified 2026-09-23)
+source: >-
+  Homepage and recent update at
+  https://bigbrotherwatch.org.uk/press-releases/big-brother-watch-comments-on-the-governments-response-to-facial-recognition-public-consultation/
+  (verified 2026-11-10).
 founding_year: null
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://bigbrotherwatch.org.uk/work-with-us/"
+last_verified: "2026-11-10"

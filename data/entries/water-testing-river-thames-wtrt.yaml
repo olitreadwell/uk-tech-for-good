@@ -1,0 +1,29 @@
+name: "Water Testing River Thames (WTRT)"
+domain: "environmental citizen-science"
+what: >-
+  Water Testing River Thames is a volunteer group testing water quality along the River Thames from
+  Oxford to Teddington. It publishes E. coli and intestinal enterococci results as open data.
+region: "south-east"
+website: "https://watertestingriverthames.co.uk/"
+github: ""
+linkedin_org: ""
+community_url: ""
+events_url: ""
+linkedin_people: []
+tags:
+  - "water quality"
+  - "citizen science"
+  - "open data"
+  - "river thames"
+related_to: []
+source: >-
+  what, website, region and takes_contributors from https://watertestingriverthames.co.uk/ and
+  https://watertestingriverthames.co.uk/about_us (accessed 2026-11-10; HTTP 200). what quote:
+  "Volunteer test results for E. coli and intestinal enterococci from Oxford to Teddington."
+  About quote: "volunteers testing water quality on the River Thames from Oxford to Teddington, and
+  why we share the results." The contact page invites questions, offers of help and reports, which
+  supports takes_contributors.
+founding_year: null
+takes_contributors: true
+careers_url: ""
+last_verified: "2026-11-10"

@@ -1,0 +1,32 @@
+name: BBC Media Action
+domain: journalism / media-tech
+what: >-
+  BBC Media Action is the BBC's international charity. It works with local partners to provide
+  impartial media and information, and trains journalists in countries affected by conflict, disaster
+  and disinformation.
+region: london
+website: "https://www.bbc.co.uk/mediaaction"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/bbcmediaaction"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- media
+- journalism
+- disinformation
+- international development
+related_to: []
+source: >-
+  Homepage, About and Work for us pages at https://www.bbc.co.uk/mediaaction,
+  https://www.bbc.co.uk/mediaaction/about and https://www.bbc.co.uk/mediaaction/contact/jobs
+  (accessed 2026-11-10). Supports name, what, region, website, founding_year, linkedin_org and
+  careers_url. Homepage quote for what: "We work to provide impartial, impactful, trustworthy media
+  to people in need so that they can make informed choices to transform their lives." About quote for
+  founding_year: "BBC Media Action was founded in 1999 by the BBC as its international development
+  charity." The About and Contact pages give London addresses for region. The homepage and About page
+  linked linkedin_org; the Work for us and Contact pages linked careers_url.
+founding_year: 1999
+takes_contributors: null
+careers_url: "https://www.bbc.co.uk/mediaaction/contact/jobs"
+last_verified: "2026-11-10"

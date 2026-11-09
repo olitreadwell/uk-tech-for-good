@@ -1,11 +1,13 @@
 name: Open Rights Group
 domain: human-rights tech
-what: Open Rights Group is a UK campaigning organisation working on digital rights. It focuses on privacy and free
-  speech online, and on how data and technology affect people's rights.
+what: >-
+  Open Rights Group is a UK grassroots digital rights campaigning organisation working to protect
+  privacy and free speech online. It campaigns on surveillance, data protection, AI and the effects of
+  technology on people's rights.
 region: national
 website: https://www.openrightsgroup.org
 github: ''
-linkedin_org: ''
+linkedin_org: "https://www.linkedin.com/company/open-rights-group/"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +17,11 @@ tags:
 - free speech
 - campaigning
 related_to: []
-source: openrightsgroup.org homepage (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://www.openrightsgroup.org/press-releases/new-report-ai-being-embedded-across-immigration-system-in-near-total-secrecy/
+  (verified 2026-11-10).
+founding_year: 2005
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://www.openrightsgroup.org/jobs/"
+last_verified: "2026-11-10"

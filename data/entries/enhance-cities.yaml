@@ -1,0 +1,29 @@
+name: "ENHANCE Cities"
+domain: "green / climate-tech"
+what: >-
+  This interactive mapping tool from UCL's Centre for Advanced Spatial Analysis visualises open
+  data on transport accessibility, travel behaviour and urban development for towns and cities in
+  England and Wales.
+region: "london"
+website: "https://enhancecities.org/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- open data
+- mapping
+- urban planning
+- sustainable transport
+related_to: []
+source: >-
+  https://enhancecities.org/ (accessed 2026-11-10). Fields verified: name, domain, what,
+  region, website, tags, last_verified. what quote: "The ENHANCE Mapping Tool allows you to
+  explore transport accessibility, travel behaviour and development data for towns and cities
+  in England and Wales." region from the candidate HQ in London and the project team at CASA,
+  UCL.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

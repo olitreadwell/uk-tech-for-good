@@ -1,0 +1,29 @@
+name: DG Cities
+domain: govtech
+what: >-
+  DG Cities is a council-owned urban innovation company that helps local authorities adopt technology
+  and data. Its projects cover digital inclusion, housing data, transport innovation and tools for
+  meeting decarbonisation targets.
+region: london
+website: https://www.dgcities.com
+github: ''
+linkedin_org: "https://www.linkedin.com/company/dg-cities/"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- local government
+- smart cities
+- urban innovation
+- digital inclusion
+related_to: []
+source: >-
+  https://www.dgcities.com/ (accessed 2026-11-10). what quote: "DG Cities is a multidisciplinary team
+  with expertise across sectors, from behavioural science, AI and economics, to housing strategy,
+  policy and its application"; council ownership from the candidate description. name, domain,
+  region and website from the homepage; linkedin_org and careers_url linked from the homepage and
+  https://www.dgcities.com/contact. Tags from the same pages.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.dgcities.com/careers"
+last_verified: "2026-11-10"

@@ -1,0 +1,33 @@
+name: "MapAction"
+domain: "crisis / humanitarian-tech"
+what: >-
+  MapAction is a non-profit organisation that provides mapping, geospatial and data expertise
+  during humanitarian emergencies. It works with disaster response agencies to turn incoming data
+  into maps and analysis that support decisions.
+region: "south-east"
+website: "https://mapaction.org/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/mapaction"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- humanitarian
+- mapping
+- geospatial
+- disaster response
+related_to: []
+source: >-
+  https://mapaction.org/about-us/ (accessed 2026-11-10). Fields verified: name, domain, what,
+  region, website, linkedin_org, careers_url, takes_contributors, tags, last_verified. what
+  quote: "We are a non-profit organisation collaborating with partners around the world to
+  prepare for and respond to humanitarian emergencies". region from the candidate HQ in
+  Oxfordshire, mapped to south-east. linkedin_org linked from the about page as
+  https://www.linkedin.com/company/mapaction. careers_url linked from the homepage as
+  https://mapaction.org/get-involved/join-us/. takes_contributors from the volunteer page at
+  https://mapaction.org/get-involved/volunteer/: "You can apply here whenever recruitment
+  windows are open."
+founding_year: null
+takes_contributors: true
+careers_url: "https://mapaction.org/get-involved/join-us/"
+last_verified: "2026-11-10"

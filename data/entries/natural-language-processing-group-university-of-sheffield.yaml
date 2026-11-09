@@ -1,0 +1,28 @@
+name: "Natural Language Processing Group, University of Sheffield"
+domain: "research / education tech"
+what: >-
+  The Natural Language Processing Group is a research group in the University of Sheffield's School
+  of Computer Science. It is one of the largest language processing research groups in the UK.
+region: "yorkshire-and-the-humber"
+website: "https://sheffield.ac.uk/cs/research/groups/natural-language-processing"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: "https://sheffield.ac.uk/cs/about/events"
+linkedin_people: []
+tags:
+- natural language processing
+- research
+- artificial intelligence
+- university
+related_to: []
+source: >-
+  https://sheffield.ac.uk/cs/research/groups/natural-language-processing (accessed 2026-11-10).
+  what quote: "The Natural Language Processing Research Group, established in 1993, is one of the
+  largest and most successful language processing groups in the UK"; founding_year quote:
+  "established in 1993". name, domain, region and website from the homepage; careers_url and
+  events_url linked from the same page. Tags from the same pages.
+founding_year: 1993
+takes_contributors: null
+careers_url: "https://sheffield.ac.uk/cs/jobs"
+last_verified: "2026-11-10"

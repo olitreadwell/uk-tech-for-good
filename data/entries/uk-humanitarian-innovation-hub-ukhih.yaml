@@ -1,0 +1,31 @@
+name: "UK Humanitarian Innovation Hub (UKHIH)"
+domain: "crisis / humanitarian-tech"
+what: >-
+  The UK Humanitarian Innovation Hub is a UK-funded programme that brings government, science,
+  private and humanitarian actors together. It supports innovations and technologies for
+  humanitarian responses to disasters and conflict.
+region: "national"
+website: "https://devtracker.fcdo.gov.uk/programme/GB-CHC-1177110-UKHIH/summary"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- humanitarian
+- innovation
+- disaster response
+- government
+related_to: []
+source: >-
+  DevTracker programme page at
+  https://devtracker.fcdo.gov.uk/programme/GB-CHC-1177110-UKHIH/summary (accessed 2026-11-10).
+  Supports name, what, region and website. Quote for what: "The UK Humanitarian Innovation Hub
+  (UKHIH) will promote and support strategic and focused collaborations across government, science,
+  private and humanitarian actors to drive urgently needed innovations and technologies in
+  humanitarian responses to disasters and conflict." The page describes a UK Government-funded
+  programme with global projects, so region is national.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

@@ -1,0 +1,29 @@
+name: "Worker Info Exchange"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  Worker Info Exchange is a non-profit that helps workers reclaim control over data collected from
+  them at work. It uses data access requests, investigations and data trusts to challenge
+  algorithmic management and support legal claims.
+region: "london"
+website: "https://www.workerinfoexchange.org/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- workers
+- data rights
+- algorithmic accountability
+- gig economy
+related_to: []
+source: >-
+  https://www.workerinfoexchange.org/ (accessed 2026-11-10). Supports name, domain, what, region,
+  website and tags. Homepage quote for what: "Worker Info Exchange is a non-profit helping workers
+  reclaim control over the data collected from them at work." The same page describes its "Data
+  access", "Data investigations" and "Data trusts" work and identifies London in the page title.
+  Tags from the same page.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

@@ -1,7 +1,8 @@
 name: Citizens Advice
 domain: legal-aid / justice tech
-what: Citizens Advice gives free, independent advice on benefits, debt, housing, employment, and consumer problems.
-  The advice is published on its website and delivered by advisers in local offices across the UK.
+what: >-
+  Citizens Advice is a national charity giving free, independent advice on benefits, debt, housing,
+  employment, consumer and legal problems through its website and a network of local offices.
 region: national
 website: https://www.citizensadvice.org.uk
 github: ''
@@ -15,8 +16,11 @@ tags:
 - debt
 - legal
 related_to: []
-source: citizensadvice.org.uk homepage (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://www.citizensadvice.org.uk/about-us/media-centre/press-releases/the-squeezed-middle-left-exposed-to-gbp3-7bn-leaky-homes-penalty-if-chancellor-cuts-support-warns-citizens-advice/
+  (verified 2026-11-10).
+founding_year: 1939
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://www.citizensadvice.org.uk/about-us/job-and-voluntary-opportunities/"
+last_verified: "2026-11-10"

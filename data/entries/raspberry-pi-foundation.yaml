@@ -1,11 +1,13 @@
 name: Raspberry Pi Foundation
 domain: education equity tech
-what: The Raspberry Pi Foundation is a charity with a mission to help young people realise their potential through
-  computing and digital technologies. It publishes free learning resources and supports clubs and teachers.
+what: >-
+  Raspberry Pi Foundation is a UK charity that helps young people realise their potential through
+  computing and digital technologies, publishing free learning resources and supporting clubs,
+  teachers and Coolest Projects.
 region: national
 website: https://www.raspberrypi.org
 github: ''
-linkedin_org: ''
+linkedin_org: "https://www.linkedin.com/company/raspberrypifoundation/"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +17,10 @@ tags:
 - young people
 - charity
 related_to: []
-source: raspberrypi.org homepage (verified 2026-09-23)
+source: >-
+  Homepage and recent update at https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/
+  (verified 2026-11-10).
 founding_year: null
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://www.raspberrypi.org/careers"
+last_verified: "2026-11-10"

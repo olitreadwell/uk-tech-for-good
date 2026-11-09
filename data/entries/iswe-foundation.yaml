@@ -1,0 +1,30 @@
+name: "Iswe Foundation"
+domain: "civic-tech"
+what: >-
+  Iswe Foundation is an independent not-for-profit innovation centre working on
+  participatory political systems. It runs Assemblis, an online platform that gives
+  communities tools to run local assemblies.
+region: "south-west"
+website: "https://www.iswe.org/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/iswe-foundation"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- democracy
+- citizen assemblies
+- participation
+- civic tech
+related_to: []
+source: >-
+  https://www.iswe.org/ (homepage, accessed 2026-11-10). Fields verified: name,
+  domain, what, region, website, linkedin_org, careers_url, tags, last_verified.
+  what quote: "Iswe Foundation is an independent, not-for-profit innovation centre,
+  building political systems fit for the future". linkedin_org and careers_url
+  linked from the homepage. region from candidate HQ Stroud. founding_year: null;
+  no founding year stated in cached pages.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.iswe.org/careers"
+last_verified: "2026-11-10"

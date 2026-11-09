@@ -1,0 +1,30 @@
+name: DataKind UK
+domain: nonprofit / NGO tech
+what: >-
+  DataKind UK is a charity that helps other third sector organisations use data analysis and data
+  science. It matches charities and social enterprises with skilled data volunteers and runs free
+  projects, resources and events.
+region: national
+website: https://www.datakind.org.uk
+github: "https://github.com/DataKind-UK"
+linkedin_org: "https://www.linkedin.com/company/datakind-uk/"
+community_url: ''
+events_url: "https://www.datakind.org.uk/events"
+linkedin_people: []
+tags:
+- data science
+- charity
+- volunteers
+- data for good
+related_to: []
+source: >-
+  https://www.datakind.org.uk/all-about (accessed 2026-11-10). what quote: "DataKind UK is a small
+  charity that helps other third sector organisations achieve their missions by boosting their use
+  of data analysis and science"; founding_year quote: "Founded in 2013". name, domain, region and
+  website from https://www.datakind.org.uk/; github and linkedin_org linked from
+  https://www.datakind.org.uk/all-about; events_url linked from the same page; careers_url is the
+  volunteer page linked from the same page. Tags from the same pages.
+founding_year: 2013
+takes_contributors: null
+careers_url: "https://www.datakind.org.uk/volunteer"
+last_verified: "2026-11-10"

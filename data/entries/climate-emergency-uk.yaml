@@ -1,0 +1,33 @@
+name: "Climate Emergency UK"
+domain: "green / climate-tech"
+what: >-
+  Climate Emergency UK assesses all UK councils on the action they have taken towards net zero and
+  publishes the results as the Council Climate Action Scorecards. It also trains and supports
+  residents, councillors and council staff to campaign for faster local climate action.
+region: "national"
+website: "https://climateemergency.uk/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/climate-emergency-uk/posts/"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- climate
+- local government
+- scorecards
+- councils
+related_to: []
+source: >-
+  website: https://climateemergency.uk/ (homepage, accessed 2026-11-10). what: "We inspire and
+  support UK council climate action" (homepage). region: "all UK councils" (homepage).
+  founding_year: "Founded in 2019" (about page at https://climateemergency.uk/who-we-are).
+  linkedin_org: linked from homepage as
+  https://www.linkedin.com/company/climate-emergency-uk/posts/?feedView=all, with tracking query
+  removed. careers_url: https://climateemergency.uk/get-involved/#jobs (linked from homepage).
+  takes_contributors: "Each year we recruit over 200 volunteers to create the Council Climate
+  Action Scorecards." (get-involved page at https://climateemergency.uk/get-involved/). last_verified:
+  2026-11-10.
+founding_year: 2019
+takes_contributors: true
+careers_url: "https://climateemergency.uk/get-involved/#jobs"
+last_verified: "2026-11-10"

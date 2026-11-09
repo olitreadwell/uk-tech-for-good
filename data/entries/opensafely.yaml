@@ -1,7 +1,8 @@
 name: OpenSAFELY
 domain: research / education tech
-what: OpenSAFELY is a platform for analysing large, sensitive datasets safely and securely. It is built by a team at
-  the Bennett Institute so that approved researchers can work with NHS data under tight controls.
+what: >-
+  OpenSAFELY is a platform for analysing sensitive NHS records safely, built and maintained by the
+  Bennett Institute at the University of Oxford with NHS England, TPP, Optum and collaborators.
 region: national
 website: https://www.opensafely.org
 github: ''
@@ -15,8 +16,11 @@ tags:
 - privacy
 - open source
 related_to: []
-source: opensafely.org homepage (verified 2026-09-23)
+source: >-
+  Homepage and recent update at https://www.opensafely.org/; activity also at
+  https://www.bennett.ox.ac.uk/blog/2026/10/reflections-from-the-2026-public-engagement-in-data-research-initiative-pedri-forum/
+  (verified 2026-11-10).
 founding_year: null
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-09-23'
+last_verified: "2026-11-10"

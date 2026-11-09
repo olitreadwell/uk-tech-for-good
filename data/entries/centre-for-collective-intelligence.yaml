@@ -1,0 +1,30 @@
+name: "Centre for Collective Intelligence"
+domain: "civic-tech"
+what: >-
+  The Centre for Collective Intelligence is a Nesta project that helps public and voluntary
+  sector organisations involve citizens in decisions on complex issues. It designs digital tools
+  and deliberative engagements, using technology, AI, arts and design to scale public participation.
+region: "london"
+website: "https://www.nesta.org.uk/centre-for-collective-intelligence/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- collective intelligence
+- public engagement
+- ai
+- civic tech
+related_to: []
+source: >-
+  https://www.nesta.org.uk/centre-for-collective-intelligence/ (accessed 2026-11-10).
+  Fields verified: name, domain, what, region, website, careers_url, tags, last_verified.
+  what quotes: "We use technology, AI, arts and design to scale public engagement" and "We design
+  digital tools and deliberative engagements that help public and voluntary sector institutions
+  build trust and collaborate with citizens". region from the candidate HQ in London.
+  careers_url linked from the same page as https://www.nesta.org.uk/jobs/.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.nesta.org.uk/jobs/"
+last_verified: "2026-11-10"

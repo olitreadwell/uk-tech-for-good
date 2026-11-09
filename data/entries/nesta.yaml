@@ -1,0 +1,27 @@
+name: "Nesta"
+domain: "civic-tech"
+what: >-
+  Nesta is a research and innovation foundation that designs, tests and scales solutions to social
+  challenges. Its work includes collective intelligence, data visualisation and policy research.
+region: "national"
+website: "https://www.nesta.org.uk/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/nesta"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- innovation
+- research
+- social good
+- data
+related_to: []
+source: >-
+  https://www.nesta.org.uk/ (accessed 2026-11-10). what quotes: "We are Nesta, the research and
+  innovation foundation." and "Data visualisation & interactive". name, domain, region and website
+  from the homepage; linkedin_org and careers_url linked from the same page. Tags from the same
+  pages.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.nesta.org.uk/jobs/"
+last_verified: "2026-11-10"

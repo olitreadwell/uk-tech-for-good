@@ -1,0 +1,30 @@
+name: "International Aid Transparency Initiative"
+domain: "open-data"
+what: >-
+  The International Aid Transparency Initiative is a global initiative that publishes
+  data on development and humanitarian spending using the IATI Standard. It provides
+  free tools and guidance so that aid information is open and usable.
+region: "scotland"
+website: "https://iatistandard.org/en/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: "https://iatistandard.org/en/events/"
+linkedin_people: []
+tags:
+- aid transparency
+- open data
+- international development
+- standards
+related_to: []
+source: >-
+  https://iatistandard.org/en/ (homepage, accessed 2026-11-10). Fields verified:
+  name, domain, what, region, website, events_url, tags, last_verified. what quote:
+  "Our work involves making data on development and humanitarian spending and
+  projects easier to access, use and understand." events_url linked from the
+  homepage. region from candidate HQ East Kilbride, Glasgow. founding_year: null;
+  no founding year stated in cached pages.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

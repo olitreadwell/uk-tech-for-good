@@ -1,0 +1,35 @@
+name: "Open Knowledge Foundation"
+domain: "open-data"
+what: >-
+  The Open Knowledge Foundation is a not-for-profit organisation that builds digital tools and
+  infrastructure for open data and open knowledge. It runs projects including CKAN, Open Data
+  Day and the Open Data Editor, and supports a global network of open knowledge communities.
+region: national
+website: "https://okfn.org/en/"
+github: "https://github.com/okfn"
+linkedin_org: "https://www.linkedin.com/company/open-knowledge-foundation/"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- open data
+- open knowledge
+- digital public goods
+- civic tech
+related_to: []
+source: >-
+  Homepage, About, Jobs and community blog pages at https://okfn.org/en/,
+  https://okfn.org/en/who-we-are/, https://okfn.org/en/jobs/ and
+  https://blog.okfn.org/2025/07/18/join-the-community-shaping-odes-future-with-ai-open-sessions/
+  (accessed 2026-11-10). Supports name, what, region, website, github, linkedin_org,
+  careers_url, founding_year and takes_contributors. About quote for what: "Since 2004, the
+  Open Knowledge Foundation has worked at the intersection of cutting-edge digital tools and a
+  distributed network of communities and movements to serve the public interest with open
+  knowledge." About quote for founding_year: "Since 2004". The homepage linked github,
+  linkedin_org and careers_url. The community blog page shows a public open-session route for
+  contributing to the Open Data Editor: "This invitation is open to everyone in our networks
+  and communities". The candidate record gives UK as its HQ for region.
+founding_year: 2004
+takes_contributors: true
+careers_url: "https://okfn.org/en/jobs/"
+last_verified: "2026-11-10"

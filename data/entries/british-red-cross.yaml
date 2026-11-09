@@ -1,0 +1,37 @@
+name: "British Red Cross"
+domain: "crisis / humanitarian-tech"
+what: >-
+  The British Red Cross is a humanitarian charity that helps people in the UK and overseas during
+  conflicts, disasters and individual emergencies. It runs emergency response, health and care, first
+  aid and refugee services, supported by in-house technology and digital teams.
+region: national
+website: "https://www.redcross.org.uk/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/british-red-cross"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- humanitarian
+- emergency response
+- health and care
+- first aid
+- refugees
+related_to: []
+source: >-
+  Homepage, international work, jobs and volunteer pages at https://www.redcross.org.uk/,
+  https://www.redcross.org.uk/about-us/what-we-do/international,
+  https://www.redcross.org.uk/get-involved/jobs and
+  https://www.redcross.org.uk/get-involved/volunteer (accessed 2026-11-10). Supports name, what,
+  region, website, linkedin_org, founding_year, takes_contributors and careers_url. Homepage quote
+  for what: "The British Red Cross is a humanitarian charity providing aid, emergency support, and
+  help to communities in need across the UK and the world." Jobs page quote for technology: "Our
+  technology and digital teams develop new products to improve staff, volunteer and supporter
+  experiences." Homepage quote for founding_year: "Founded in 1870". Volunteer page quote for
+  takes_contributors: "Volunteering with the British Red Cross is an opportunity to make a real
+  difference." The homepage linked linkedin_org and careers_url. The volunteer page lists
+  opportunities across the UK for region.
+founding_year: 1870
+takes_contributors: true
+careers_url: "https://www.redcross.org.uk/get-involved/jobs"
+last_verified: "2026-11-10"

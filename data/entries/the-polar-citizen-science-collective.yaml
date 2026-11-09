@@ -1,0 +1,31 @@
+name: "The Polar Citizen Science Collective"
+domain: "environmental citizen-science"
+what: >-
+  The Polar Citizen Science Collective is a registered charity that unites polar tour operators,
+  scientists, guides and travellers to collect standardised data for research. It runs citizen
+  science projects and a training platform for the polar tourism industry.
+region: "national"
+website: "https://polarcollective.org/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/polarcollective"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- citizen science
+- polar research
+- environmental data
+- charity
+related_to: []
+source: >-
+  Homepage and About pages at https://polarcollective.org/ and
+  https://polarcollective.org/about (accessed 2026-11-10). Supports name, what, region, website,
+  linkedin_org and founding_year. Homepage quote for what: "We unite Tour Operators, Scientists,
+  Polar Guides and Travellers to enable research and education through Citizen Science." About
+  quote for founding_year: "The Polar Citizen Science Collective was founded in 2017". The About
+  page also says "The Training Platform was launched" and gives Registered Charity 1191998
+  (England and Wales), so region is national. The About page linked linkedin_org.
+founding_year: 2017
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

@@ -1,0 +1,30 @@
+name: "One Team Gov"
+domain: "govtech"
+what: >-
+  One Team Gov is a global community of public sector reformers who meet online and in person
+  to share practical ways to improve government services. Its UK network runs regular meetups
+  and maintains a Slack community for civil servants, service designers and technologists.
+region: national
+website: "https://oneteamgov.uk/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/oneteamgov/posts/"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- govtech
+- public sector
+- peer network
+- service design
+related_to: []
+source: >-
+  Homepage, About and Contact pages at https://oneteamgov.uk/, https://oneteamgov.uk/about/
+  and https://oneteamgov.uk/contact-us/ (accessed 2026-11-10). Supports name, what, region,
+  website and linkedin_org. About quote for what: "We’re a global community of innovators,
+  working together to radically reform the public sector through practical action." About
+  also says its focus is "making it fit for the internet age". The Contact page linked
+  linkedin_org. The candidate record gives UK as its HQ for region.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

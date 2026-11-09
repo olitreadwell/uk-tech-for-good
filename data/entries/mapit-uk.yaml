@@ -1,0 +1,31 @@
+name: "MapIt UK"
+domain: "govtech"
+what: >-
+  MapIt is a mySociety service that maps postcodes and locations to UK administrative
+  boundaries. Its bulk tool adds council, constituency and other area columns to uploaded
+  spreadsheets.
+region: "national"
+website: "https://mapit.mysociety.org/bulk/"
+github: "https://github.com/mysociety/mapit"
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- mapping
+- open data
+- local government
+- civic tech
+related_to: []
+source: >-
+  https://mapit.mysociety.org/bulk/ (accessed 2026-11-10). Fields verified: name, domain,
+  what, region, website, github, tags, last_verified. what quotes: "Point-to-boundary mapping
+  for the UK. Input a postcode or geographical location, and MapIt returns the relevant
+  constituency or authority" and "MapIt will automatically match the postcodes and add columns
+  for the administrative areas (councils, constituencies, CCGs, etc.) you request". region
+  from the UK-wide service described on the page. github linked from the page as
+  https://github.com/mysociety/mapit.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

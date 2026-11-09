@@ -1,0 +1,30 @@
+name: "Foxglove"
+domain: "human-rights tech"
+what: >-
+  Foxglove is a non-profit community interest company that uses litigation, campaigning and
+  communication to challenge abuses by technology companies and governments. Its cases and campaigns
+  examine the use of technology in public services and the power of large technology companies.
+region: "london"
+website: "https://www.foxglove.org.uk/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- tech justice
+- litigation
+- campaigning
+- digital rights
+related_to: []
+source: >-
+  Homepage and Who We Are page at https://www.foxglove.org.uk/ and
+  https://www.foxglove.org.uk/who-we-are/ (accessed 2026-11-10). Supports name, what, region, website
+  and careers_url. Homepage quote for what: "Foxglove is independent and not-for-profit. Donations pay
+  for our investigations, legal actions, and campaigning." Who We Are quote for what: "Foxglove is an
+  independent non-profit organisation that fights to make tech fair for everyone." The homepage
+  linked careers_url as https://www.foxglove.org.uk/news/jobs/.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.foxglove.org.uk/news/jobs/"
+last_verified: "2026-11-10"

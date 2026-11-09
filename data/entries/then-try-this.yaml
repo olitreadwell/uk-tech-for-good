@@ -1,0 +1,30 @@
+name: "Then Try This"
+domain: "environmental citizen-science"
+what: >-
+  Then Try This is a non-profit research, design and development organisation in Cornwall. It
+  builds open source software, hardware and participatory projects on environmental and social
+  issues, including citizen science and community technology.
+region: "south-west"
+website: "https://thentrythis.org/"
+github: "https://github.com/fo-am"
+linkedin_org: ''
+community_url: ''
+events_url: "https://thentrythis.org/events/"
+linkedin_people: []
+tags:
+- citizen science
+- open source
+- community technology
+- cornwall
+related_to: []
+source: >-
+  Homepage, About and Events pages at https://thentrythis.org/, https://thentrythis.org/about/ and
+  https://thentrythis.org/events/ (accessed 2026-11-10). Supports name, what, region, website,
+  github and events_url. About quote for what: "We're a non-profit research, design and development
+  organisation based in the UK (Cornwall)." The About page also says "All our work is open source*"
+  and lists citizen science, community technology and software and hardware work. The About page
+  linked github and the homepage linked events_url.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

@@ -1,7 +1,9 @@
 name: CoTech
 domain: worker-coop / platform-coop tech
-what: CoTech is a network of worker-owned technology co-operatives in the UK. Its members build software and digital
-  services, and cooperate on client work and shared infrastructure.
+what: >-
+  CoTech is a UK-wide network of worker-owned technology and digital service cooperatives. It was
+  founded at Wortley Hall in 2016 and became the first sector-specific arm of the workers.coop
+  federation in September 2024.
 region: national
 website: https://www.coops.tech
 github: ''
@@ -15,8 +17,9 @@ tags:
 - software
 - network
 related_to: []
-source: coops.tech homepage (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at https://www.cotech.coop/conference-2026 (verified 2026-11-10).
+founding_year: 2016
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-09-23'
+last_verified: "2026-11-10"

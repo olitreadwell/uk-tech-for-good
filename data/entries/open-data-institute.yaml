@@ -1,10 +1,12 @@
 name: Open Data Institute
 domain: open-data
-what: The Open Data Institute is a London-based non-profit founded in 2012 by Tim Berners-Lee and Nigel Shadbolt. It
-  researches how data is collected and used, and advises organisations on doing that openly and accountably.
+what: >-
+  Open Data Institute is a london-based non-profit founded in 2012 by Sir Tim Berners-Lee and Sir
+  Nigel Shadbolt. It works on data infrastructure, research, policy, consultancy and training to build
+  trust in data.
 region: london
 website: https://theodi.org
-github: ''
+github: "https://github.com/theodi"
 linkedin_org: ''
 community_url: ''
 events_url: ''
@@ -15,8 +17,11 @@ tags:
 - policy
 - data ethics
 related_to: []
-source: theodi.org homepage (verified 2026-09-23)
+source: >-
+  Homepage and recent update at
+  https://theodi.org/news-and-events/news/new-global-effort-launches-to-build-the-data-foundations-ai-needs-to-improve-public-services/
+  (verified 2026-11-10).
 founding_year: 2012
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-09-23'
+last_verified: "2026-11-10"

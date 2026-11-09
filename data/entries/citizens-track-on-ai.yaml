@@ -1,0 +1,31 @@
+name: "Citizens' Track on AI"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  The Citizens' Track on AI is an initiative that brings public deliberation and community
+  assemblies into international AI governance. It connects local participatory processes with
+  global governance forums so affected communities can shape decisions about AI.
+region: "national"
+website: "https://citizens-track.org/2026/report/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: "https://citizens-track.org/events/"
+linkedin_people: []
+tags:
+- ai governance
+- public participation
+- deliberation
+- civic tech
+related_to: []
+source: >-
+  https://citizens-track.org/2026/report/ (accessed 2026-11-10). Fields verified: name,
+  domain, what, region, website, events_url, takes_contributors, tags, last_verified. what
+  quote: "Embedding community assemblies and global citizen deliberation at the heart of
+  international AI governance". region from the candidate HQ listed as UK, mapped to national.
+  events_url linked from the about page as https://citizens-track.org/events/.
+  takes_contributors from the about page: "Sign up to receive updates from the Citizens' Track
+  on AI and to get involved."
+founding_year: null
+takes_contributors: true
+careers_url: ''
+last_verified: "2026-11-10"

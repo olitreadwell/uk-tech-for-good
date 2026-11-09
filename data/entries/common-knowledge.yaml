@@ -1,0 +1,32 @@
+name: "Common Knowledge"
+domain: "civic-tech"
+what: >-
+  Common Knowledge is a not-for-profit worker cooperative of technologists, designers,
+  researchers and facilitators. It builds digital tools and provides training and strategic
+  advice to help grassroots organisers and communities increase their impact.
+region: "london"
+website: "https://commonknowledge.coop/"
+github: "https://github.com/commonknowledge"
+linkedin_org: "https://www.linkedin.com/company/commonknowledge"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- worker cooperative
+- digital infrastructure
+- organising
+- civic tech
+related_to: []
+source: >-
+  https://commonknowledge.coop/ (accessed 2026-11-10). Fields verified: name, domain, what,
+  region, website, github, linkedin_org, founding_year, tags, last_verified. what quotes:
+  "We’re a not-for-profit worker cooperative of technologists, designers, researchers and
+  facilitators" and "using our digital skills to multiply their impact and capacity". region
+  from the candidate HQ in London. github linked from the homepage as
+  https://github.com/commonknowledge. linkedin_org linked from the Open Collective page at
+  https://opencollective.com/commonknowledge as https://www.linkedin.com/company/commonknowledge.
+  founding_year quote: "Our co-op began in 2018".
+founding_year: 2018
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"
