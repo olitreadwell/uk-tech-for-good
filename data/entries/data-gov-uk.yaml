@@ -1,7 +1,9 @@
 name: data.gov.uk
 domain: open-data
-what: data.gov.uk is the UK government's home for public data. It brings datasets published by departments and public
-  bodies together in one catalogue that anyone can search and download from.
+what: >-
+  Data.gov.uk is the UK government's public data catalogue, now being transformed into the National
+  Data Library. It is run by GDS in the Department for Science, Innovation and Technology and still
+  hosts the directory where public bodies publish datasets.
 region: national
 website: https://www.data.gov.uk
 github: ''
@@ -15,8 +17,13 @@ tags:
 - catalogue
 - datasets
 related_to: []
-source: data.gov.uk homepage (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://dataingovernment.blog.gov.uk/2026/03/25/whats-changing-on-data-gov-uk-and-why/; activity
+  also at
+  https://dataingovernment.blog.gov.uk/2026/07/14/improving-support-for-people-at-risk-through-better-data-introducing-the-vulnerabilities-data-standards-alpha/
+  (verified 2026-11-10).
+founding_year: 2010
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-09-23'
+last_verified: "2026-11-10"

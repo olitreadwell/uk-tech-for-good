@@ -1,11 +1,13 @@
 name: Open Climate Fix
 domain: green / climate-tech
-what: Open Climate Fix builds open forecasting tools, mostly using machine learning, to help electricity grids plan
-  around renewable generation and cut carbon emissions.
+what: >-
+  Open Climate Fix is a non-profit building open-source machine-learning forecasts for solar, wind,
+  and cloud movements so electricity grids can use more renewable power. Its GB solar forecast is used
+  by the National Energy System Operator.
 region: national
 website: https://openclimatefix.org
-github: ''
-linkedin_org: ''
+github: "https://github.com/openclimatefix"
+linkedin_org: "https://www.linkedin.com/company/open-climate-fix"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +17,11 @@ tags:
 - forecasting
 - energy
 related_to: []
-source: openclimatefix.org homepage (verified 2026-09-23)
+source: >-
+  Homepage and recent update at
+  https://openclimatefix.org/insights/our-netherlands-solar-forecast-beats-the-national-benchmark-by-up-to-40
+  (verified 2026-11-10).
 founding_year: null
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-09-23'
+last_verified: "2026-11-10"

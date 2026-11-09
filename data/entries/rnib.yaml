@@ -1,11 +1,13 @@
 name: RNIB
 domain: disability & accessibility tech
-what: The Royal National Institute of Blind People supports blind and partially sighted people across the UK. It
-  advises on assistive and accessible technology, and campaigns for accessible products and services.
+what: >-
+  RNIB is the UK's leading sight loss charity, providing practical and emotional support to blind and
+  partially sighted people and campaigning for accessible products and services. It also runs
+  specialist services including Talking Books and RNIB Connect Radio.
 region: national
 website: https://www.rnib.org.uk
-github: ''
-linkedin_org: ''
+github: "https://github.com/rnib"
+linkedin_org: "https://www.linkedin.com/company/rnib"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +17,11 @@ tags:
 - assistive technology
 - charity
 related_to: []
-source: rnib.org.uk homepage (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://www.rnib.org.uk/news/report-finds-nhs-app-falls-short-on-accessibility/ (verified
+  2026-11-10).
+founding_year: 1868
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://www.rnib.org.uk/about-us/careers-at-rnib/"
+last_verified: "2026-11-10"

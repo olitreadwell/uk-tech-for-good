@@ -1,11 +1,12 @@
 name: Liberty
 domain: human-rights tech
-what: Liberty is a UK civil liberties organisation. It campaigns and takes legal cases on rights issues, including
-  those raised by surveillance and the use of personal data.
+what: >-
+  Liberty is a UK civil liberties organisation that campaigns, litigates and advocates on human
+  rights, including privacy, surveillance and free expression.
 region: national
 website: https://www.libertyhumanrights.org.uk
 github: ''
-linkedin_org: ''
+linkedin_org: "https://www.linkedin.com/company/liberty-national-council-for-civil-liberties-/"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +16,11 @@ tags:
 - litigation
 - campaigning
 related_to: []
-source: libertyhumanrights.org.uk homepage (verified 2026-09-23)
+source: >-
+  Homepage and recent update at
+  https://www.libertyhumanrights.org.uk/issue/why-were-challenging-the-uk-governments-attempts-to-break-encryption/
+  (verified 2026-11-10).
 founding_year: null
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-09-23'
+last_verified: "2026-11-10"

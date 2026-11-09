@@ -1,10 +1,11 @@
 name: TheyWorkForYou
 domain: civic-tech
-what: TheyWorkForYou, run by mySociety, makes the UK's parliaments easier to follow. You can look up who represents
-  you and see how they have voted and what they have said in debates.
+what: >-
+  TheyWorkForYou is a mySociety civic-tech service that makes Hansard, votes and representatives
+  searchable across the UK's parliaments.
 region: national
 website: https://www.theyworkforyou.com
-github: ''
+github: "https://github.com/mysociety/theyworkforyou"
 linkedin_org: ''
 community_url: ''
 events_url: ''
@@ -16,8 +17,11 @@ tags:
 - hansard
 related_to:
 - mySociety
-source: theyworkforyou.com homepage (verified 2026-09-23)
+source: >-
+  Homepage and recent update at
+  https://www.mysociety.org/2026/07/01/theyworkforyou-voting-summaries-update-july-2026/; activity
+  also at https://www.theyworkforyou.com/ (verified 2026-11-10).
 founding_year: null
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-09-23'
+last_verified: "2026-11-10"

@@ -1,11 +1,12 @@
 name: Apps for Good
 domain: education equity tech
-what: Apps for Good provides free creative technology courses that teachers can run in the classroom, aimed at
-  preparing students for a changing world of work.
+what: >-
+  Apps for Good is a UK education charity providing free computing, AI and essential-skills courses
+  for schools. Its new AI for Good 2.0 course has students build AI-powered apps for social impact.
 region: national
 website: https://www.appsforgood.org
 github: ''
-linkedin_org: ''
+linkedin_org: "https://www.linkedin.com/company/cdi-apps-for-good"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +16,10 @@ tags:
 - young people
 - digital skills
 related_to: []
-source: appsforgood.org homepage (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at
+  https://www.appsforgood.org/blog/impact-report-2025-26-the-skills-that-matter (verified 2026-11-10).
+founding_year: 2010
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://www.appsforgood.org/volunteers"
+last_verified: "2026-11-10"

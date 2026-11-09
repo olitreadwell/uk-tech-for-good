@@ -1,10 +1,11 @@
 name: Open Innovations
 domain: open-data
-what: Open Innovations is a not-for-profit in Leeds that works in the open with sponsors and partners to turn open
-  data into tools and evidence for better decisions.
+what: >-
+  Open Innovations was a Leeds-based not-for-profit open-data organisation. It stopped taking new work
+  in May 2026 and its tools, data and blog remain online as an archive.
 region: yorkshire-and-the-humber
 website: https://open-innovations.org
-github: ''
+github: "https://github.com/open-innovations"
 linkedin_org: ''
 community_url: ''
 events_url: ''
@@ -15,8 +16,10 @@ tags:
 - visualisation
 - innovation
 related_to: []
-source: open-innovations.org homepage, reached from odileeds.org (verified 2026-09-23)
-founding_year: null
+source: >-
+  Homepage and recent update at https://open-innovations.org/blog/2026-04-14-it-s-goodbye-from-us
+  (verified 2026-11-10).
+founding_year: 2013
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-09-23'
+last_verified: "2026-11-10"

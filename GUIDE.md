@@ -83,58 +83,58 @@ _8 entries in this domain._
 
 **360Giving**
 
-- 360Giving is a charity that helps grantmakers publish and use open data about their funding, so people can see who is funding what and where.
+- 360Giving is an UK charity that helps grantmakers publish and use open grants data through the 360Giving Data Standard and GrantNav. It is now part of Funders Together.
 - Region: national
-- Links: [Website](https://www.threesixtygiving.org)
+- Links: [Website](https://www.threesixtygiving.org) · [GitHub](https://github.com/threesixtygiving) · [LinkedIn](https://www.linkedin.com/company/360giving/)
 - Tags: grants, open data, philanthropy, transparency
 
 **Centre for Public Data**
 
-- The Centre for Public Data works to improve the UK's public data. It campaigns to fill gaps in data collection and to strengthen data provisions in new legislation.
+- The Centre for Public Data is a non-profit, non-partisan advocacy organisation working for stronger public data: data collected, published or regulated by government. It works with policymakers, parliamentarians and organisations to identify data gaps and improve legislation.
 - Region: national
-- Links: [Website](https://www.centreforpublicdata.org)
+- Links: [Website](https://www.centreforpublicdata.org) · [GitHub](https://github.com/centreforpublicdata) · [LinkedIn](https://www.linkedin.com/company/centreforpublicdata/)
 - Tags: public data, policy, campaigning, legislation
 
 **data.gov.uk**
 
-- data.gov.uk is the UK government's home for public data. It brings datasets published by departments and public bodies together in one catalogue that anyone can search and download from.
+- Data.gov.uk is the UK government's public data catalogue, now being transformed into the National Data Library. It is run by GDS in the Department for Science, Innovation and Technology and still hosts the directory where public bodies publish datasets.
 - Region: national
 - Links: [Website](https://www.data.gov.uk)
 - Tags: open data, government, catalogue, datasets
 
 **Office for National Statistics**
 
-- The Office for National Statistics is the UK's national statistical institute and its largest independent producer of official statistics. It publishes data on the population, the economy, and society.
+- Office for National Statistics is the UK's national statistical institute and largest independent producer of official statistics. It publishes over 600 releases a year on the economy, society and population.
 - Region: national
-- Links: [Website](https://www.ons.gov.uk)
+- Links: [Website](https://www.ons.gov.uk) · [GitHub](https://github.com/ONSdigital) · [LinkedIn](https://www.linkedin.com/company/office-for-national-statistics)
 - Tags: official statistics, open data, government, population
 
 **Open Data Institute**
 
-- The Open Data Institute is a London-based non-profit founded in 2012 by Tim Berners-Lee and Nigel Shadbolt. It researches how data is collected and used, and advises organisations on doing that openly and accountably.
+- Open Data Institute is a london-based non-profit founded in 2012 by Sir Tim Berners-Lee and Sir Nigel Shadbolt. It works on data infrastructure, research, policy, consultancy and training to build trust in data.
 - Region: london
-- Links: [Website](https://theodi.org)
+- Links: [Website](https://theodi.org) · [GitHub](https://github.com/theodi)
 - Tags: open data, research, policy, data ethics
 
 **Open Data Manchester**
 
-- Open Data Manchester helps people, organisations, and communities use data better, through advice, advocacy, events, research, and training.
+- Open Data Manchester helps people, organisations and communities use data better through advice, advocacy, events, research and training.
 - Region: north-west
-- Links: [Website](https://www.opendatamanchester.org.uk)
+- Links: [Website](https://www.opendatamanchester.org.uk) · [GitHub](https://github.com/OpenDataManchester)
 - Tags: open data, training, community, greater manchester
 
 **Open Innovations**
 
-- Open Innovations is a not-for-profit in Leeds that works in the open with sponsors and partners to turn open data into tools and evidence for better decisions.
+- Open Innovations was a Leeds-based not-for-profit open-data organisation. It stopped taking new work in May 2026 and its tools, data and blog remain online as an archive.
 - Region: yorkshire-and-the-humber
-- Links: [Website](https://open-innovations.org)
+- Links: [Website](https://open-innovations.org) · [GitHub](https://github.com/open-innovations)
 - Tags: open data, leeds, visualisation, innovation
 
 **OpenUK**
 
-- OpenUK is a not-for-profit and the UK body for the business of open technology, covering open source software, open hardware, open data, and open standards.
+- OpenUK is a not-for-profit convening UK business, academia and technologists across open source, open hardware, open data, open standards and AI openness.
 - Region: national
-- Links: [Website](https://openuk.uk)
+- Links: [Website](https://openuk.uk) · [LinkedIn](https://www.linkedin.com/company/openuk)
 - Tags: open source, open standards, open data, advocacy
 
 ## Education Equity Tech
@@ -145,24 +145,24 @@ _3 entries in this domain._
 
 **Apps for Good**
 
-- Apps for Good provides free creative technology courses that teachers can run in the classroom, aimed at preparing students for a changing world of work.
+- Apps for Good is a UK education charity providing free computing, AI and essential-skills courses for schools. Its new AI for Good 2.0 course has students build AI-powered apps for social impact.
 - Region: national
-- Links: [Website](https://www.appsforgood.org)
+- Links: [Website](https://www.appsforgood.org) · [LinkedIn](https://www.linkedin.com/company/cdi-apps-for-good)
 - Tags: education, courses, young people, digital skills
 
 **Code Club**
 
-- Code Club is a global community of free clubs where young people learn programming and digital making. It is part of the Raspberry Pi Foundation and provides projects and training for the volunteers who run clubs.
+- Code Club is a global network of free coding clubs for young people and part of the Raspberry Pi Foundation. It provides projects, training and support for the volunteers who run clubs.
 - Region: national
-- Links: [Website](https://codeclub.org)
+- Links: [Website](https://codeclub.org) · [LinkedIn](https://uk.linkedin.com/company/code-club)
 - Tags: coding, clubs, young people, volunteers
 - Related: Raspberry Pi Foundation
 
 **Raspberry Pi Foundation**
 
-- The Raspberry Pi Foundation is a charity with a mission to help young people realise their potential through computing and digital technologies. It publishes free learning resources and supports clubs and teachers.
+- Raspberry Pi Foundation is a UK charity that helps young people realise their potential through computing and digital technologies, publishing free learning resources and supporting clubs, teachers and Coolest Projects.
 - Region: national
-- Links: [Website](https://www.raspberrypi.org)
+- Links: [Website](https://www.raspberrypi.org) · [LinkedIn](https://www.linkedin.com/company/raspberrypifoundation/)
 - Tags: computing, education, young people, charity
 
 ## Human Rights Tech
@@ -173,28 +173,28 @@ _4 entries in this domain._
 
 **Big Brother Watch**
 
-- Big Brother Watch campaigns against threats to privacy and civil liberties in the UK, including state surveillance and the collection of personal data.
+- Big Brother Watch is a UK civil liberties campaign group focused on privacy, surveillance, facial recognition and free speech.
 - Region: national
 - Links: [Website](https://bigbrotherwatch.org.uk)
 - Tags: privacy, civil liberties, surveillance, campaigning
 
 **Liberty**
 
-- Liberty is a UK civil liberties organisation. It campaigns and takes legal cases on rights issues, including those raised by surveillance and the use of personal data.
+- Liberty is a UK civil liberties organisation that campaigns, litigates and advocates on human rights, including privacy, surveillance and free expression.
 - Region: national
-- Links: [Website](https://www.libertyhumanrights.org.uk)
+- Links: [Website](https://www.libertyhumanrights.org.uk) · [LinkedIn](https://www.linkedin.com/company/liberty-national-council-for-civil-liberties-/)
 - Tags: civil liberties, human rights, litigation, campaigning
 
 **Open Rights Group**
 
-- Open Rights Group is a UK campaigning organisation working on digital rights. It focuses on privacy and free speech online, and on how data and technology affect people's rights.
+- Open Rights Group is a UK grassroots digital rights campaigning organisation working to protect privacy and free speech online. It campaigns on surveillance, data protection, AI and the effects of technology on people's rights.
 - Region: national
-- Links: [Website](https://www.openrightsgroup.org)
+- Links: [Website](https://www.openrightsgroup.org) · [LinkedIn](https://www.linkedin.com/company/open-rights-group/)
 - Tags: digital rights, privacy, free speech, campaigning
 
 **Privacy International**
 
-- Privacy International is a charity based in London that works on the intersection of modern technology and human rights, with a focus on surveillance and the exploitation of personal data.
+- Privacy International is a London-based charity working on technology and human rights, with a focus on surveillance and the exploitation of personal data. It has worked on privacy since 1990.
 - Region: london
 - Links: [Website](https://privacyinternational.org)
 - Tags: privacy, surveillance, human rights, research
@@ -207,7 +207,7 @@ _1 entry in this domain._
 
 **Citizens Advice**
 
-- Citizens Advice gives free, independent advice on benefits, debt, housing, employment, and consumer problems. The advice is published on its website and delivered by advisers in local offices across the UK.
+- Citizens Advice is a national charity giving free, independent advice on benefits, debt, housing, employment, consumer and legal problems through its website and a network of local offices.
 - Region: national
 - Links: [Website](https://www.citizensadvice.org.uk)
 - Tags: advice, benefits, debt, legal
@@ -220,7 +220,7 @@ _1 entry in this domain._
 
 **CoTech**
 
-- CoTech is a network of worker-owned technology co-operatives in the UK. Its members build software and digital services, and cooperate on client work and shared infrastructure.
+- CoTech is a UK-wide network of worker-owned technology and digital service cooperatives. It was founded at Wortley Hall in 2016 and became the first sector-specific arm of the workers.coop federation in September 2024.
 - Region: national
 - Links: [Website](https://www.coops.tech)
 - Tags: co-operatives, worker ownership, software, network
@@ -233,23 +233,23 @@ _3 entries in this domain._
 
 **Crisis**
 
-- Crisis is a national charity for people experiencing homelessness. It runs services for people who are homeless and campaigns for the policy changes needed to end homelessness.
+- Crisis is a national UK charity for people experiencing homelessness, running services and campaigning for the policy changes needed to end homelessness.
 - Region: national
-- Links: [Website](https://www.crisis.org.uk)
+- Links: [Website](https://www.crisis.org.uk) · [LinkedIn](https://www.linkedin.com/company/crisis)
 - Tags: homelessness, housing, charity, campaigning
 
 **Homeless Link**
 
-- Homeless Link is the national membership charity for organisations working directly with people who become homeless in England. It works to improve those services and campaigns for policy change.
+- Homeless Link is a national membership charity for organisations working with people who become homeless in England, providing training, consultancy, data and policy advocacy.
 - Region: national
-- Links: [Website](https://homelesslink.org.uk)
+- Links: [Website](https://homelesslink.org.uk) · [LinkedIn](https://www.linkedin.com/company/homeless-link)
 - Tags: homelessness, housing, membership, policy
 
 **Shelter England**
 
-- Shelter is a housing and homelessness charity in England. It advises people and families on their housing rights, challenges unfair housing practice, and campaigns for better housing policy.
+- Shelter England is a housing and homelessness charity in England providing advice, legal support and emergency helpline services, and campaigning for housing policy change.
 - Region: national
-- Links: [Website](https://england.shelter.org.uk)
+- Links: [Website](https://england.shelter.org.uk) · [LinkedIn](https://www.linkedin.com/company/shelter-uk)
 - Tags: housing, homelessness, advice, campaigning
 
 ## Civic Tech
@@ -260,23 +260,23 @@ _3 entries in this domain._
 
 **Democracy Club**
 
-- Democracy Club produces election data for the UK. It runs a national polling station finder and a candidate database, and publishes the underlying data for others to reuse.
+- Democracy Club is a non-partisan UK community interest company that produces election data, runs WhoCanIVoteFor and WhereDoIVote, and publishes candidate and polling-station data for reuse.
 - Region: national
-- Links: [Website](https://democracyclub.org.uk)
+- Links: [Website](https://democracyclub.org.uk) · [GitHub](https://github.com/DemocracyClub) · [LinkedIn](https://www.linkedin.com/company/democracy-club-cic)
 - Tags: elections, open data, civic tech, voting
 
 **mySociety**
 
-- mySociety provides technology, research, and data that help people take part in civic life. Its tools, among them FixMyStreet and TheyWorkForYou, are used in more than 40 countries.
+- MySociety is a UK charity, established in 2003, that builds and runs digital services such as FixMyStreet, TheyWorkForYou and WhatDoTheyKnow to help people participate in civic life and hold institutions to account.
 - Region: national
-- Links: [Website](https://www.mysociety.org)
+- Links: [Website](https://www.mysociety.org) · [GitHub](https://github.com/mysociety) · [LinkedIn](https://www.linkedin.com/company/mysociety)
 - Tags: civic tech, democracy, research, open source
 
 **TheyWorkForYou**
 
-- TheyWorkForYou, run by mySociety, makes the UK's parliaments easier to follow. You can look up who represents you and see how they have voted and what they have said in debates.
+- TheyWorkForYou is a mySociety civic-tech service that makes Hansard, votes and representatives searchable across the UK's parliaments.
 - Region: national
-- Links: [Website](https://www.theyworkforyou.com)
+- Links: [Website](https://www.theyworkforyou.com) · [GitHub](https://github.com/mysociety/theyworkforyou)
 - Tags: parliament, transparency, civic tech, hansard
 - Related: mySociety
 
@@ -288,9 +288,9 @@ _1 entry in this domain._
 
 **Full Fact**
 
-- Full Fact checks claims made online and in the news, and works with platforms, regulators, and researchers to reduce the harm caused by bad information.
+- Full Fact is an independent UK fact-checking charity that checks claims made online and in public debate, and works with platforms, regulators and researchers to reduce harm from bad information.
 - Region: national
-- Links: [Website](https://fullfact.org)
+- Links: [Website](https://fullfact.org) · [GitHub](https://github.com/fullfact)
 - Tags: fact checking, misinformation, journalism, research
 
 ## Digital Inclusion
@@ -301,9 +301,9 @@ _1 entry in this domain._
 
 **Good Things Foundation**
 
-- Good Things Foundation is a UK digital inclusion charity. It works with a network of local partners to help people get online, get hold of devices, and build the skills and confidence to use them.
+- Good Things Foundation is a UK digital inclusion charity running the National Digital Inclusion Network, National Databank, National Device Bank, Learn My Way and the AI Gateway.
 - Region: national
-- Links: [Website](https://www.goodthingsfoundation.org)
+- Links: [Website](https://www.goodthingsfoundation.org) · [GitHub](https://github.com/goodthingsfoundation) · [LinkedIn](https://www.linkedin.com/company/good-things-foundation)
 - Tags: digital inclusion, digital skills, devices, charity
 
 ## GovTech
@@ -314,14 +314,14 @@ _2 entries in this domain._
 
 **Government Digital Service**
 
-- The Government Digital Service is the digital centre of government. It builds and sets standards for UK public services online, including GOV.UK itself.
+- The Government Digital Service is the UK government's digital centre, building and setting standards for public services including GOV.UK, GOV.UK One Login and GOV.UK Pay.
 - Region: national
-- Links: [Website](https://www.gov.uk/government/organisations/government-digital-service)
+- Links: [Website](https://www.gov.uk/government/organisations/government-digital-service) · [LinkedIn](https://www.linkedin.com/company/government-digital-service)
 - Tags: govtech, public services, standards, digital government
 
 **LocalGov Digital**
 
-- LocalGov Digital is a network for digital practitioners working in and around local government, providing a place for councils to share work on common problems.
+- LocalGov Digital is a network for digital practitioners working in and around UK local government, with more than 3,000 members. It runs an online community, events and shared resources for councils.
 - Region: national
 - Links: [Website](https://localgov.digital)
 - Tags: local government, govtech, network, councils
@@ -334,23 +334,23 @@ _3 entries in this domain._
 
 **Green Web Foundation**
 
-- The Green Web Foundation works towards a fossil-free internet. It runs a check and a hosting directory that show whether a website is served using green energy, and publishes the dataset behind them.
+- Green Web Foundation is a Dutch non-profit working towards a fossil-free internet by 2030. It maintains an open dataset of websites running on green energy and builds tools including CO2.js and carbon.txt.
 - Region: national
-- Links: [Website](https://www.thegreenwebfoundation.org)
+- Links: [Website](https://www.thegreenwebfoundation.org) · [GitHub](https://github.com/thegreenwebfoundation) · [LinkedIn](https://nl.linkedin.com/company/green-web-foundation)
 - Tags: climate, green hosting, dataset, internet
 
 **Open Climate Fix**
 
-- Open Climate Fix builds open forecasting tools, mostly using machine learning, to help electricity grids plan around renewable generation and cut carbon emissions.
+- Open Climate Fix is a non-profit building open-source machine-learning forecasts for solar, wind, and cloud movements so electricity grids can use more renewable power. Its GB solar forecast is used by the National Energy System Operator.
 - Region: national
-- Links: [Website](https://openclimatefix.org)
+- Links: [Website](https://openclimatefix.org) · [GitHub](https://github.com/openclimatefix) · [LinkedIn](https://www.linkedin.com/company/open-climate-fix)
 - Tags: climate, machine learning, forecasting, energy
 
 **The Restart Project**
 
-- The Restart Project helps people use their electronics for longer, which keeps working devices out of waste. It supports community repair events and campaigns for the right to repair.
+- The Restart Project is a people-powered social enterprise running community repair events, Fixing Factories and repair directories. It campaigns for the right to repair.
 - Region: national
-- Links: [Website](https://therestartproject.org)
+- Links: [Website](https://therestartproject.org) · [GitHub](https://github.com/TheRestartProject) · [LinkedIn](https://www.linkedin.com/company/the-restart-project)
 - Tags: right to repair, electronics, waste, community
 
 ## Research & Education Tech
@@ -361,7 +361,7 @@ _1 entry in this domain._
 
 **OpenSAFELY**
 
-- OpenSAFELY is a platform for analysing large, sensitive datasets safely and securely. It is built by a team at the Bennett Institute so that approved researchers can work with NHS data under tight controls.
+- OpenSAFELY is a platform for analysing sensitive NHS records safely, built and maintained by the Bennett Institute at the University of Oxford with NHS England, TPP, Optum and collaborators.
 - Region: national
 - Links: [Website](https://www.opensafely.org)
 - Tags: health data, research, privacy, open source
@@ -374,16 +374,16 @@ _2 entries in this domain._
 
 **RNIB**
 
-- The Royal National Institute of Blind People supports blind and partially sighted people across the UK. It advises on assistive and accessible technology, and campaigns for accessible products and services.
+- RNIB is the UK's leading sight loss charity, providing practical and emotional support to blind and partially sighted people and campaigning for accessible products and services. It also runs specialist services including Talking Books and RNIB Connect Radio.
 - Region: national
-- Links: [Website](https://www.rnib.org.uk)
+- Links: [Website](https://www.rnib.org.uk) · [GitHub](https://github.com/rnib) · [LinkedIn](https://www.linkedin.com/company/rnib)
 - Tags: accessibility, blindness, assistive technology, charity
 
 **Scope**
 
-- Scope is a disability equality charity in England and Wales. It provides practical information and campaigns on the barriers disabled people face, including in digital services.
+- Scope is a disability equality charity in England and Wales providing practical information, support, and campaigns on the barriers disabled people face. It runs a helpline, disability energy service, and charity shops.
 - Region: national
-- Links: [Website](https://www.scope.org.uk)
+- Links: [Website](https://www.scope.org.uk) · [LinkedIn](https://uk.linkedin.com/company/scope)
 - Tags: disability, equality, accessibility, charity
 
 ## Financial Inclusion & Fintech for Good
@@ -394,9 +394,9 @@ _1 entry in this domain._
 
 **Turn2us**
 
-- Turn2us is a charity that helps people facing financial insecurity. It runs online tools to check benefit entitlement and to search for charitable grants.
+- Turn2us is a UK charity helping people facing financial insecurity. It runs a benefits calculator, a charitable grants search and direct grant programmes, and says its roots stretch back to 1897.
 - Region: national
-- Links: [Website](https://www.turn2us.org.uk)
+- Links: [Website](https://www.turn2us.org.uk) · [LinkedIn](https://www.linkedin.com/company/turn2us/)
 - Tags: financial insecurity, benefits, grants, charity
 
 ## How this is maintained / how to add an entry

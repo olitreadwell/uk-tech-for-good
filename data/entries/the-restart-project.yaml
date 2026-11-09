@@ -1,11 +1,12 @@
 name: The Restart Project
 domain: green / climate-tech
-what: The Restart Project helps people use their electronics for longer, which keeps working devices out of waste. It
-  supports community repair events and campaigns for the right to repair.
+what: >-
+  The Restart Project is a people-powered social enterprise running community repair events, Fixing
+  Factories and repair directories. It campaigns for the right to repair.
 region: national
 website: https://therestartproject.org
-github: ''
-linkedin_org: ''
+github: "https://github.com/TheRestartProject"
+linkedin_org: "https://www.linkedin.com/company/the-restart-project"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -15,8 +16,10 @@ tags:
 - waste
 - community
 related_to: []
-source: therestartproject.org homepage (verified 2026-09-23)
+source: >-
+  Homepage and recent update at https://therestartproject.org/news/repair-day-2026/ (verified
+  2026-11-10).
 founding_year: null
 takes_contributors: null
-careers_url: ''
-last_verified: '2026-09-23'
+careers_url: "https://therestartproject.org/about/jobs/"
+last_verified: "2026-11-10"

@@ -1,11 +1,12 @@
 name: Code Club
 domain: education equity tech
-what: Code Club is a global community of free clubs where young people learn programming and digital making. It is
-  part of the Raspberry Pi Foundation and provides projects and training for the volunteers who run clubs.
+what: >-
+  Code Club is a global network of free coding clubs for young people and part of the Raspberry Pi
+  Foundation. It provides projects, training and support for the volunteers who run clubs.
 region: national
 website: https://codeclub.org
 github: ''
-linkedin_org: ''
+linkedin_org: "https://uk.linkedin.com/company/code-club"
 community_url: ''
 events_url: ''
 linkedin_people: []
@@ -16,8 +17,11 @@ tags:
 - volunteers
 related_to:
 - Raspberry Pi Foundation
-source: codeclub.org/about (verified 2026-09-23); raspberrypi.org (verified 2026-09-23)
+source: >-
+  Homepage and recent update at
+  https://codeclub.org/2026/11/03/friendship-kindness-and-code-celebrate-world-kindness-day-at-your-code-club/
+  (verified 2026-11-10).
 founding_year: null
 takes_contributors: null
 careers_url: ''
-last_verified: '2026-09-23'
+last_verified: "2026-11-10"
