@@ -1,0 +1,29 @@
+name: "Diagonal Works"
+domain: "civic-tech"
+what: >-
+  Diagonal Works is a steward-owned data science and visualisation consultancy that builds software
+  tools for understanding urban systems. It uses open data to help planners, public agencies and
+  developers assess how changes to a city may affect people and places.
+region: "national"
+website: "https://diagonal.works/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- urban planning
+- open data
+- data visualisation
+- cities
+related_to: []
+source: >-
+  Home, About and Contact pages at https://diagonal.works/, https://diagonal.works/about-us/ and
+  https://diagonal.works/contact (accessed 2026-11-10). Supports name, what, region and website.
+  Homepage quote for what: "We are a data science and visualisation consultancy, powered by our
+  software." About page quote for what: "We’re a steward-owned company, legally bound to both our
+  mission and employee control in perpetuity."
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

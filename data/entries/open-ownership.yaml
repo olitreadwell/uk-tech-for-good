@@ -1,0 +1,33 @@
+name: "Open Ownership"
+domain: "open-data"
+what: >-
+  Open Ownership is a non-profit that helps governments publish and use high-quality data about
+  who owns companies and other legal entities. It promotes beneficial ownership transparency
+  to reduce corruption and tax evasion and supports the global Open Ownership data standard.
+region: national
+website: "https://www.openownership.org/en/"
+github: "https://github.com/openownership/"
+linkedin_org: "https://www.linkedin.com/company/openownership/"
+community_url: ''
+events_url: "https://www.openownership.org/en/publication-categories/events/"
+linkedin_people: []
+tags:
+- open data
+- beneficial ownership
+- transparency
+- anti-corruption
+related_to: []
+source: >-
+  Homepage, About, Jobs and Events pages at https://www.openownership.org/en/,
+  https://www.openownership.org/en/about/, https://www.openownership.org/en/about/jobs/ and
+  https://www.openownership.org/en/publication-categories/events/ (accessed 2026-11-10).
+  Supports name, what, region, website, github, linkedin_org, events_url and careers_url.
+  Jobs page quote for what: "Open Ownership drives greater corporate transparency across the
+  world by making it easy to publish and access high quality, linked data about who owns
+  corporate vehicles." The homepage linked github and linkedin_org; the Jobs page linked
+  careers_url; the Events page linked events_url. The candidate record gives UK as its HQ for
+  region.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.openownership.org/en/about/jobs/"
+last_verified: "2026-11-10"

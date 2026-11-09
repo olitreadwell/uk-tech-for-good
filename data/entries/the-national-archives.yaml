@@ -1,0 +1,35 @@
+name: "The National Archives"
+domain: "govtech"
+what: >-
+  The National Archives is the UK Government's official archive and publisher for England and
+  Wales. It preserves national records and gives the public online access to catalogues, digital
+  archives and related government information services.
+region: "national"
+website: "https://www.nationalarchives.gov.uk/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: "https://www.nationalarchives.gov.uk/whats-on/"
+linkedin_people: []
+tags:
+- archives
+- public records
+- government
+- digital archive
+related_to: []
+source: >-
+  Homepage, About, Contact, Careers and What's on pages at
+  https://www.nationalarchives.gov.uk/, https://www.nationalarchives.gov.uk/about-us/,
+  https://www.nationalarchives.gov.uk/contact-us/,
+  https://www.nationalarchives.gov.uk/about-us/working-here-and-opportunities/ and
+  https://www.nationalarchives.gov.uk/whats-on/ (accessed 2026-11-10). Supports name, what, region,
+  website, events_url and careers_url. About quote for what: "The National Archives is
+  non-ministerial department, and the official archive and publisher for the UK Government, and for
+  England and Wales." The homepage presents the catalogue search, UK Government Web Archive and
+  Find Case Law. The About page describes a UK Government archive for England and Wales, so region
+  is national. The What's on page gives events_url, and the Careers page linked careers_url at
+  https://nationalarchives.wd3.myworkdayjobs.com/Careers/.
+founding_year: null
+takes_contributors: null
+careers_url: "https://nationalarchives.wd3.myworkdayjobs.com/Careers/"
+last_verified: "2026-11-10"

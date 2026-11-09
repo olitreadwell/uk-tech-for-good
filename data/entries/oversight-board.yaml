@@ -1,0 +1,34 @@
+name: "Oversight Board"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  The Oversight Board is an independent body that reviews Meta's content moderation
+  decisions on Facebook, Instagram and Threads. It makes binding decisions on difficult
+  cases and publishes policy recommendations on free expression, human rights and
+  platform governance.
+region: "london"
+website: "https://www.oversightboard.com/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/oversight-board-administration/"
+community_url: ''
+events_url: "https://www.oversightboard.com/events/"
+linkedin_people: []
+tags:
+- content moderation
+- platform governance
+- human rights
+- responsible tech
+related_to: []
+source: >-
+  Homepage, Careers and Events pages at https://www.oversightboard.com/,
+  https://www.oversightboard.com/careers/ and https://www.oversightboard.com/events/
+  (accessed 2026-11-10). Supports name, domain, what, region, website, linkedin_org,
+  events_url, careers_url, tags and last_verified. Homepage quote for what: "The
+  Oversight Board’s mission is to improve how Meta treats people and communities around
+  the world." founding_year: no founding year stated in the cached pages, so null.
+  Region from candidate HQ London; the Careers page lists London, San Francisco and
+  Washington D.C. offices. The homepage linked linkedin_org and events_url; the Careers
+  page linked careers_url and linkedin_org.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.oversightboard.com/careers/"
+last_verified: "2026-11-10"

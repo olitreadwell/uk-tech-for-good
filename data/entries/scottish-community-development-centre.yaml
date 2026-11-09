@@ -1,0 +1,31 @@
+name: "Scottish Community Development Centre"
+domain: "civic-tech"
+what: >-
+  The Scottish Community Development Centre is a charity and the national lead body for community
+  development in Scotland. It supports community groups and public bodies with training, research
+  and the VOiCE community engagement software.
+region: "scotland"
+website: "https://www.scdc.org.uk/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/the-scottish-community-development-centre"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- community development
+- scotland
+- charity
+- community engagement
+related_to: []
+source: >-
+  https://www.scdc.org.uk/ and https://www.scdc.org.uk/who (accessed 2026-11-10). name, domain,
+  what, region, website, linkedin_org, tags and founding_year verified. what quote: "SCDC is the
+  lead body for community development in Scotland." and "VOiCE is planning and recording software
+  that assists individuals, organisations and partnerships to design and deliver effective
+  community engagement." founding_year quote: "Formed in 1994, we are a charity and Company Limited
+  by Guarantee based in Glasgow." linkedin_org linked from the homepage and contact page. region
+  from the same pages. last_verified: 2026-11-10.
+founding_year: 1994
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

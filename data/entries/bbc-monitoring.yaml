@@ -1,0 +1,27 @@
+name: "BBC Monitoring"
+domain: "journalism / media-tech"
+what: >-
+  BBC Monitoring is a BBC service that reports and analyses news from radio, television, press and
+  online sources around the world. It provides media monitoring and open-source intelligence to
+  subscribers.
+region: london
+website: "https://monitoring.bbc.co.uk/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- media monitoring
+- open source intelligence
+- journalism
+- public media
+related_to: []
+source: >-
+  Homepage at https://monitoring.bbc.co.uk/ (accessed 2026-11-10). Supports name, what, region and
+  website. Homepage meta description quote for what: "BBC Monitoring reports and analyses news from
+  media around the world." The candidate record gives London as its HQ for region.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

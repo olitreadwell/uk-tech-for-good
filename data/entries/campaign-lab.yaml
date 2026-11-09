@@ -1,0 +1,36 @@
+name: "Campaign Lab"
+domain: "civic-tech"
+what: >-
+  Campaign Lab is a network of campaigners, data scientists, researchers and technologists who build
+  and test digital tools for progressive political campaigns. It runs hack nights, experiments and
+  research to improve how campaigns use data and technology.
+region: london
+website: "https://campaignlab.uk/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/campaign-lab-uk"
+community_url: ''
+events_url: "https://campaignlab.uk/events/"
+linkedin_people: []
+tags:
+- civic tech
+- campaigning
+- elections
+- research
+- volunteering
+related_to: []
+source: >-
+  Homepage, Our Story, Community, Events and Work with us pages at https://campaignlab.uk/,
+  https://campaignlab.uk/our-story/, https://campaignlab.uk/community/,
+  https://campaignlab.uk/events/ and https://campaignlab.uk/work-with-us/ (accessed 2026-11-10).
+  Supports name, what, region, website, linkedin_org, events_url, careers_url, founding_year and
+  takes_contributors. Homepage quote for what: "We are a community of politically-minded progressive
+  data scientists, researchers and campaigners who are working together to develop innovative
+  election tools and improve the way we analyse and understand campaigning." Our Story quote for
+  founding_year: "Campaign Lab started in May 2018". Community quote for takes_contributors: "We are
+  a network of progressive technologists, data scientists, researchers, and campaigners
+  collaborating to build smarter election tools". The homepage linked linkedin_org and events_url;
+  the Work with us page linked careers_url. The candidate record gives London as its HQ for region.
+founding_year: 2018
+takes_contributors: true
+careers_url: "https://campaignlab.uk/work-with-us/"
+last_verified: "2026-11-10"

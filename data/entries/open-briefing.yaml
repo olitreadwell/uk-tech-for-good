@@ -1,0 +1,31 @@
+name: "Open Briefing"
+domain: "human-rights tech"
+what: >-
+  Open Briefing provides security and wellbeing support to activists, communities and
+  movements at risk. It helps them strengthen their physical safety, digital resilience and
+  collective wellbeing, and advises nonprofits and foundations on managing risk.
+region: south-west
+website: "https://www.openbriefing.org/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- human rights
+- digital security
+- activism
+- nonprofit support
+related_to: []
+source: >-
+  Homepage, Impact and Contact pages at https://www.openbriefing.org/,
+  https://www.openbriefing.org/about/impact/ and https://www.openbriefing.org/about/contact/
+  (accessed 2026-11-10). Supports name, what, region, website and careers_url. Homepage quote
+  for what: "Open Briefing works with defenders, communities, and movements at risk to
+  strengthen their physical safety, digital resilience, and collective wellbeing." The Impact
+  page linked careers_url through its "Join the team" link. The Contact page gives Penzance,
+  Cornwall as its base for region.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.openbriefing.org/about/work-with-us/"
+last_verified: "2026-11-10"

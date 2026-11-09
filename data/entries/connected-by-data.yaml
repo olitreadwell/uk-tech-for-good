@@ -1,0 +1,32 @@
+name: "Connected by Data"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  Connected by Data is a not-for-profit organisation that campaigns for communities to have a
+  powerful say in decisions about data and AI. It runs networks, events and research on
+  participatory data governance.
+region: "south-east"
+website: "https://connectedbydata.org/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/connectedbydata"
+community_url: "https://discord.gg/uZyhRghzsc"
+events_url: "https://connectedbydata.org/events"
+linkedin_people: []
+tags:
+- data governance
+- ai
+- public participation
+- civil society
+related_to: []
+source: >-
+  website: https://connectedbydata.org/ (homepage, accessed 2026-11-10). what: "We campaign for
+  communities to have a powerful say in decisions about data and AI" and "We are a not-for-profit
+  organisation" (homepage and about page at https://connectedbydata.org/about). region: candidate
+  location Epsom, UK, mapped to south-east. linkedin_org and community_url: linked from homepage as
+  https://www.linkedin.com/company/connectedbydata and https://discord.gg/uZyhRghzsc. events_url:
+  linked from homepage as https://connectedbydata.org/events. takes_contributors: "Would you like to
+  be a CONNECTED BY DATA Fellow?" (fellowship page at https://connectedbydata.org/fellowship).
+  last_verified: 2026-11-10.
+founding_year: null
+takes_contributors: true
+careers_url: ''
+last_verified: "2026-11-10"

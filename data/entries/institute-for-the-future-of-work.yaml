@@ -1,0 +1,32 @@
+name: "Institute for the Future of Work"
+domain: "tech-ethics / responsible-AI"
+what: >-
+  The Institute for the Future of Work is an independent research institute studying
+  how new technologies change work and society. It produces research and policy work
+  on responsible AI, automation and good work.
+region: "london"
+website: "https://www.ifow.org/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/institute-future-work/"
+community_url: ''
+events_url: "https://www.ifow.org/events"
+linkedin_people: []
+tags:
+- future of work
+- responsible ai
+- research
+- policy
+- automation
+related_to: []
+source: >-
+  https://www.ifow.org/ (homepage, accessed 2026-11-10). Fields verified: name,
+  domain, what, region, website, linkedin_org, events_url, tags, last_verified.
+  what quote: "The Institute for the Future of Work is an independent
+  socio-technical research and development institute exploring the impacts of new
+  technologies on work and society." linkedin_org and events_url linked from the
+  homepage. region from candidate HQ London. founding_year: null; no founding year
+  stated in cached pages.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

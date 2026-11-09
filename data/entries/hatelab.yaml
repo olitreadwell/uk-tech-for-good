@@ -1,0 +1,30 @@
+name: "HateLab"
+domain: "human-rights tech"
+what: >-
+  HateLab is a research hub at Cardiff University that studies hate speech and hate
+  crime. It uses data science and AI to measure online harm and supports organisations
+  with tools for identifying threats.
+region: "wales"
+website: "https://hatelab.net/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- hate speech
+- hate crime
+- data science
+- online safety
+- research
+related_to: []
+source: >-
+  https://hatelab.net/ (homepage, accessed 2026-11-10). Fields verified: name,
+  domain, what, region, website, tags, last_verified. what quote: "HateLab is a
+  research hub for understanding and countering hate speech and hate crime."
+  region: "Cardiff University" footer and candidate HQ Cardiff. founding_year:
+  null; no founding year stated in cached pages.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

@@ -1,0 +1,34 @@
+name: "Centre for Information Resilience"
+domain: "human-rights tech"
+what: >-
+  The Centre for Information Resilience is a non-profit social enterprise that uses open-source
+  research and digital investigations to expose disinformation, human rights abuses and war crimes.
+  It works with local partners and media to verify digital evidence from conflict zones.
+region: national
+website: "https://www.info-res.org/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/centre-for-information-resilience/"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- open source intelligence
+- disinformation
+- human rights
+- investigations
+related_to: []
+source: >-
+  Homepage, About, Contact and Careers pages at https://www.info-res.org/,
+  https://www.info-res.org/about-us/, https://www.info-res.org/contact/ and
+  https://www.info-res.org/careers/ (accessed 2026-11-10). Supports name, what, region, website,
+  linkedin_org and careers_url. Homepage quote for what: "Our teams investigate foreign influence
+  operations, document harm in conflict environments and expose networks responsible for online
+  manipulation and other harmful activity." Careers quote for what: "The Centre for Information
+  Resilience (CIR) is an independent, non-profit social enterprise dedicated to exposing human
+  rights abuses and war crimes, countering disinformation". The candidate record gives the UK as its
+  HQ and the cached pages describe global work, so region is national. The homepage and Careers page
+  linked linkedin_org and careers_url.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.info-res.org/careers/"
+last_verified: "2026-11-10"

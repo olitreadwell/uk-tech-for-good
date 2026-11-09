@@ -1,0 +1,30 @@
+name: Demos
+domain: civic-tech
+what: >-
+  Demos is an independent educational charity and cross-party think tank working on democracy and
+  public policy. Its Demos Digital work and participatory research use technology to involve citizens
+  in policy making.
+region: london
+website: https://demos.co.uk
+github: ''
+linkedin_org: "https://www.linkedin.com/company/demos_2"
+community_url: ''
+events_url: "https://demos.co.uk/events/"
+linkedin_people: []
+tags:
+- democracy
+- think tank
+- research
+- participatory tech
+related_to: []
+source: >-
+  https://demos.co.uk/homepage/about/ (accessed 2026-11-10). what quote: "our overarching mission is
+  to upgrade democracy in the UK and build a system powered by trusting relationships, information
+  and technology, fit for our times"; founding_year quote: "Founded in 1993 in response to a
+  shortage of new ideas in British politics". name, domain, region and website from
+  https://demos.co.uk/; linkedin_org and events_url linked from the same page; careers_url linked
+  from https://demos.co.uk/homepage/about/. Tags from the same pages.
+founding_year: 1993
+takes_contributors: null
+careers_url: "https://demos.co.uk/jobs/"
+last_verified: "2026-11-10"

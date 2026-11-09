@@ -1,0 +1,33 @@
+name: "Oxford Internet Institute"
+domain: "research / education tech"
+what: >-
+  The Oxford Internet Institute is a multidisciplinary teaching and research department at the
+  University of Oxford, dedicated to the social science of the internet. It runs postgraduate
+  programmes and research groups examining how digital technologies affect society, politics
+  and the economy.
+region: south-east
+website: "https://www.oii.ox.ac.uk/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: "https://www.oii.ox.ac.uk/news-events/events"
+linkedin_people: []
+tags:
+- research
+- internet
+- social science
+- university
+related_to: []
+source: >-
+  Homepage, About, Vacancies and News & Events pages at https://www.oii.ox.ac.uk/,
+  https://www.oii.ox.ac.uk/about/, https://www.oii.ox.ac.uk/people/vacancies/ and
+  https://www.oii.ox.ac.uk/news-events/ (accessed 2026-11-10). Supports name, what, region,
+  website, events_url and careers_url. Homepage meta description quote for what: "A
+  multi-disciplinary teaching and research department at the University of Oxford." The
+  candidate record adds that it is "dedicated to the social science of the Internet". The
+  homepage linked events_url. The cached Vacancies page is careers_url. The candidate record
+  gives the University of Oxford, 1 St Giles, Oxford as its HQ for region.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.oii.ox.ac.uk/people/vacancies/"
+last_verified: "2026-11-10"

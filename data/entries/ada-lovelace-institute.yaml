@@ -1,0 +1,34 @@
+name: Ada Lovelace Institute
+domain: tech-ethics / responsible-AI
+what: >-
+  The Ada Lovelace Institute is an independent research institute focused on data and AI. It
+  conducts research, policy and practice work to ensure the benefits of data and AI are distributed
+  fairly.
+region: london
+website: "https://www.adalovelaceinstitute.org/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/ada-lovelace-institute"
+community_url: ''
+events_url: "https://www.adalovelaceinstitute.org/news-events/events/"
+linkedin_people: []
+tags:
+- ai
+- data policy
+- research
+- responsible ai
+related_to: []
+source: >-
+  Homepage, About, Jobs and Events pages at https://www.adalovelaceinstitute.org/,
+  https://www.adalovelaceinstitute.org/about/,
+  https://www.adalovelaceinstitute.org/about/jobs/ and
+  https://www.adalovelaceinstitute.org/news-events/events/ (accessed 2026-11-10). Supports name,
+  what, region, website, founding_year, linkedin_org, events_url and careers_url. Homepage quote for
+  what: "An independent research institute with a mission to ensure data and AI work for people and
+  society." About quote for founding_year: "The Ada Lovelace Institute was established by the
+  Nuffield Foundation in early 2018". The About page lists an address at 100 St John Street, London
+  for region. The homepage linked linkedin_org and events_url; the homepage and Jobs page linked
+  careers_url.
+founding_year: 2018
+takes_contributors: null
+careers_url: "https://www.adalovelaceinstitute.org/about/jobs/"
+last_verified: "2026-11-10"

@@ -1,0 +1,30 @@
+name: "Web Science Institute"
+domain: "research / education tech"
+what: >-
+  The Web Science Institute is a research institute at the University of Southampton that studies
+  web science, data science and artificial intelligence. Its work examines the social challenges and
+  opportunities created by online technologies, including privacy, data and trust in AI.
+region: "south-east"
+website: "https://www.southampton.ac.uk/research/institutes-centres/web-science-institute"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/web-science-institute"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- web science
+- research
+- university
+- ai
+related_to: []
+source: >-
+  https://www.southampton.ac.uk/research/institutes-centres/web-science-institute
+  (accessed 2026-11-10). Supports name, domain, what, region, website and linkedin_org.
+  Homepage quote for what: "Web Science Institute explores the challenges and opportunities it
+  brings to society, from issues around privacy and data to the notion of trust in AI." Region
+  from the page metadata "og:region: Southampton" and the Southampton address. The homepage
+  linked linkedin_org. Tags from the same page.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

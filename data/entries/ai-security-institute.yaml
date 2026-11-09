@@ -1,0 +1,30 @@
+name: AI Security Institute
+domain: tech-ethics / responsible-AI
+what: >-
+  The AI Security Institute is a UK government research organisation that tests advanced AI systems
+  and studies their risks. It provides technical evidence to help governments keep the public safe.
+region: london
+website: "https://www.aisi.gov.uk/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/ai-security-institute?trk=public_post_feed-actor-name"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- ai safety
+- government
+- research
+- risk
+related_to: []
+source: >-
+  Homepage, About and Careers pages at https://www.aisi.gov.uk/, https://www.aisi.gov.uk/about and
+  https://www.aisi.gov.uk/careers (accessed 2026-11-10). Supports name, what, region, website,
+  linkedin_org and careers_url. Homepage quote for what: "We are conducting research and building
+  infrastructure to understand the capabilities and impacts of advanced AI and to develop and test
+  risk mitigations." The Careers page lists a modern central London office for region. founding_year
+  is null: the cached Careers page says "AISI was launched at the Bletchley Park AI Safety Summit in
+  2023", not founded, established or since. The homepage linked linkedin_org and careers_url.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.aisi.gov.uk/careers"
+last_verified: "2026-11-10"

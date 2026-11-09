@@ -1,0 +1,32 @@
+name: "Open Data Services"
+domain: "open-data"
+what: >-
+  Open Data Services is a worker-owned consultancy that helps governments, charities and
+  international institutions publish and use open data. It works on data standards,
+  governance, infrastructure and the tools that let organisations share information across
+  boundaries.
+region: north-west
+website: "https://ods.coop/"
+github: "https://github.com/OpenDataServices/"
+linkedin_org: "https://www.linkedin.com/company/9493272"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- open data
+- data standards
+- worker co-op
+- public good
+related_to: []
+source: >-
+  Homepage, About and Contact pages at https://ods.coop/, https://ods.coop/about/ and
+  https://ods.coop/contact/ (accessed 2026-11-10). Supports name, what, region, website,
+  github, linkedin_org and founding_year. Homepage quote for what: "ODS is a worker-owned
+  consultancy specialising in data infrastructure, governance and standards for the public
+  good." About quote for founding_year: "Worker-owned since 2015". The homepage linked
+  github and linkedin_org. The Contact page gives Holyoake House, Manchester as its base for
+  region.
+founding_year: 2015
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

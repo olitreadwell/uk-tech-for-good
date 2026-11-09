@@ -1,0 +1,31 @@
+name: "The Alan Turing Institute"
+domain: "research / education tech"
+what: >-
+  The Alan Turing Institute is the UK's independent national institute for data science and
+  artificial intelligence. It works with universities, public bodies and industry on research,
+  skills and policy for data science and AI.
+region: "london"
+website: "https://www.turing.ac.uk/"
+github: ""
+linkedin_org: "https://www.linkedin.com/company/the-alan-turing-institute"
+community_url: ""
+events_url: "https://www.turing.ac.uk/events"
+linkedin_people: []
+tags:
+  - "data science"
+  - "artificial intelligence"
+  - "research"
+  - "policy"
+related_to: []
+source: >-
+  what, region, website, linkedin_org, events_url and founding_year from
+  https://www.turing.ac.uk/about-us (accessed 2026-11-10; direct request returned HTTP 403, page
+  text read through the r.jina.ai reader). what quote: "The Alan Turing Institute is the UK's
+  independent national institute for data science and artificial intelligence, with headquarters
+  at the British Library". founding_year quote: "The Alan Turing Institute, headquartered in the
+  British Library, London, was created as the UK's independent national institute for data science
+  in 2015". linkedin_org and events_url are linked from the same site.
+founding_year: 2015
+takes_contributors: null
+careers_url: "https://www.turing.ac.uk/opportunities-turing/jobs"
+last_verified: "2026-11-10"

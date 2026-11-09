@@ -1,0 +1,32 @@
+name: "Newspeak House"
+domain: "civic-tech"
+what: >-
+  Newspeak House is an independent residential college in London that studies and supports
+  communities of practice across civil society and the public sector. It runs a fellowship
+  programme and hosts hackathons, meetups and lectures on political technology and digital
+  infrastructure.
+region: london
+website: "https://newspeak.house/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: "https://newspeak.house/events"
+linkedin_people: []
+tags:
+- civic tech
+- political technology
+- education
+- events
+related_to: []
+source: >-
+  Homepage, About and Events pages at https://newspeak.house/, https://newspeak.house/about
+  and https://newspeak.house/events (accessed 2026-11-10). Supports name, what, region,
+  website, events_url and founding_year. Homepage quote for what: "Newspeak House is an
+  independent residential college founded in 2015 to study, nurture, and inspire emerging
+  communities of practice across civil society and the public sector in the UK." Homepage
+  quote for founding_year: "founded in 2015". The homepage linked events_url. The candidate
+  record gives 133 Bethnal Green Road, London as its HQ for region.
+founding_year: 2015
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"

@@ -1,0 +1,33 @@
+name: "38 Degrees"
+domain: "civic-tech"
+what: >-
+  38 Degrees is a UK campaigning organisation whose members start and sign petitions and take
+  action on political and social issues. It provides campaigning tools and staff support for
+  member-led campaigns.
+region: "national"
+website: "https://home.38degrees.org.uk/"
+github: ''
+linkedin_org: "https://uk.linkedin.com/company/38-degrees"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- campaigning
+- petitions
+- civic engagement
+related_to: []
+source: >-
+  website: https://home.38degrees.org.uk/ (homepage, accessed 2026-11-10). what: "38 Degrees is
+  a community of more than a million people who – in a moment away from their busy days – take
+  small actions on issues they care about, which all add up to something bigger, a movement for
+  a better Britain for everyone who calls our country home." (homepage). region: "38 Degrees is
+  a movement of more than two million people across the UK" (homepage meta description).
+  linkedin_org: linked from homepage and contact page as https://uk.linkedin.com/company/38-degrees.
+  careers_url: linked from homepage and contact page as https://home.38degrees.org.uk/careers/.
+  takes_contributors: "Anyone can start a campaign with 38 Degrees, whether an individual or an
+  organisation." (about page at https://home.38degrees.org.uk/about/#contact). last_verified:
+  2026-11-10.
+founding_year: null
+takes_contributors: true
+careers_url: "https://home.38degrees.org.uk/careers/"
+last_verified: "2026-11-10"

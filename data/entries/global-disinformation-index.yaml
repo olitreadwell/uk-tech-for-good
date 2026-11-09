@@ -1,0 +1,31 @@
+name: "Global Disinformation Index"
+domain: "journalism / media-tech"
+what: >-
+  The Global Disinformation Index is a not-for-profit research organisation that maps the money behind
+  disinformation and publishes data on how advertising and platforms fund harmful content. Its
+  research is used by policymakers, regulators and industry to act on online harms.
+region: "london"
+website: "https://www.disinformationindex.org/"
+github: ''
+linkedin_org: "https://www.linkedin.com/company/the-global-disinformation-index"
+community_url: ''
+events_url: ''
+linkedin_people: []
+tags:
+- disinformation
+- media research
+- advertising
+- online harms
+related_to: []
+source: >-
+  Homepage, About, Contact and Careers pages at https://www.disinformationindex.org/,
+  https://www.disinformationindex.org/about/, https://www.disinformationindex.org/contact/ and
+  https://www.disinformationindex.org/careers/ (accessed 2026-11-10). Supports name, what, region,
+  website, linkedin_org and careers_url. Homepage quote for what: "GDI disrupts the monetisation of
+  disinformation." Homepage quote for what and legal status: "GDI is a not-for-profit company; any
+  surplus income generated will be 100% reinvested back into the organisation to further its mission."
+  The homepage linked linkedin_org and careers_url.
+founding_year: null
+takes_contributors: null
+careers_url: "https://www.disinformationindex.org/careers"
+last_verified: "2026-11-10"

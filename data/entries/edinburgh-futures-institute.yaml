@@ -1,0 +1,29 @@
+name: "Edinburgh Futures Institute"
+domain: "research / education tech"
+what: >-
+  Edinburgh Futures Institute is a University of Edinburgh institute for interdisciplinary
+  learning, research and innovation. It supports data-intensive research and brings researchers,
+  students, communities and industry together to work on complex social issues.
+region: "scotland"
+website: "https://efi.ed.ac.uk/"
+github: ''
+linkedin_org: ''
+community_url: ''
+events_url: "https://efi.ed.ac.uk/events"
+linkedin_people: []
+tags:
+- research
+- education
+- data
+- ai
+related_to: []
+source: >-
+  https://efi.ed.ac.uk/ (accessed 2026-11-10). Fields verified: name, domain, what, region,
+  website, events_url, tags, last_verified. what quotes: "A futures-focused space for learning,
+  research, and innovation at the University of Edinburgh" and "Support for interdisciplinary,
+  data-driven research innovation". region from the candidate HQ in Edinburgh, Scotland.
+  events_url linked from the homepage as https://efi.ed.ac.uk/events.
+founding_year: null
+takes_contributors: null
+careers_url: ''
+last_verified: "2026-11-10"
