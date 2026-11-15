@@ -80,7 +80,7 @@ Download the data as [JSON](https://github.com/olitreadwell/uk-tech-for-good/blo
 - [Newspeak House](https://newspeak.house/) - An independent residential college in London that studies and supports communities of practice across civil society and the public sector. It runs a fellowship programme and hosts hackathons, meetups and lectures on political technology and digital infrastructure.
 - [Scottish Community Development Centre](https://www.scdc.org.uk/) - The Scottish Community Development Centre is a charity and the national lead body for community development in Scotland. It supports community groups and public bodies with training, research and the VOiCE community engagement software.
 - [Sortition Foundation](https://www.sortitionfoundation.org/) - Promotes citizens' assemblies and runs democratic lotteries to select representative groups of people. It uses its Open Democratic Lottery Platform to help governments, councils and community groups organise deliberative processes.
-- [TheyWorkForYou](https://www.theyworkforyou.com) - A mySociety civic-tech service that makes Hansard, votes and representatives searchable across the UK's parliaments.
+- [TheyWorkForYou](https://www.theyworkforyou.com) - A mySociety civic-tech service that makes Hansard, votes and representatives searchable across the parliaments of the UK.
 
 ### Government technology
 
@@ -112,13 +112,13 @@ Download the data as [JSON](https://github.com/olitreadwell/uk-tech-for-good/blo
 - [Big Brother Watch](https://bigbrotherwatch.org.uk) - A UK civil liberties campaign group focused on privacy, surveillance, facial recognition and free speech.
 - [Center for Countering Digital Harm](https://www.counterharm.com/) - The Center for Countering Digital Harm is a non-profit research and advocacy organisation that investigates digital harm and holds technology companies accountable. It publishes research and runs campaigns for platform regulation and online safety.
 - [Centre for Information Resilience](https://www.info-res.org/) - The Centre for Information Resilience is a non-profit social enterprise that uses open-source research and digital investigations to expose disinformation, human rights abuses and war crimes. It works with local partners and media to verify digital evidence from conflict zones.
-- [Digital Action](https://digitalaction.co/) - A non-profit network that works with civil society partners to hold technology companies and governments accountable for digital threats to democracy and human rights. It builds coalitions and publishes research on issues including AI, online safety and women's rights online.
+- [Digital Action](https://digitalaction.co/) - A non-profit network that works with civil society partners to hold technology companies and governments accountable for digital threats to democracy and human rights. It builds coalitions and publishes research on issues including AI, online safety and the rights of women online.
 - [Foxglove](https://www.foxglove.org.uk/) - A non-profit community interest company that uses litigation, campaigning and communication to challenge abuses by technology companies and governments. Its cases and campaigns examine the use of technology in public services and the power of large technology companies.
 - [HateLab](https://hatelab.net/) - A research hub at Cardiff University that studies hate speech and hate crime. It uses data science and AI to measure online harm and supports organisations with tools for identifying threats.
 - [Liberty](https://www.libertyhumanrights.org.uk) - A UK civil liberties organisation that campaigns, litigates and advocates on human rights, including privacy, surveillance and free expression.
 - [Luminate](https://luminategroup.com/) - A philanthropic foundation that funds organisations working for a fairer digital age. It supports digital rights, privacy, public interest media and technology policy work across Africa, Asia, Europe and Latin America.
 - [Open Briefing](https://www.openbriefing.org/) - Provides security and wellbeing support to activists, communities and movements at risk. It helps them strengthen their physical safety, digital resilience and collective wellbeing, and advises nonprofits and foundations on managing risk.
-- [Open Rights Group](https://www.openrightsgroup.org) - A UK grassroots digital rights campaigning organisation working to protect privacy and free speech online. It campaigns on surveillance, data protection, AI and the effects of technology on people's rights.
+- [Open Rights Group](https://www.openrightsgroup.org) - A UK grassroots digital rights campaigning organisation working to protect privacy and free speech online. It campaigns on surveillance, data protection, AI and the effects of technology on the rights of people.
 - [Privacy International](https://privacyinternational.org) - A London-based charity working on technology and human rights, with a focus on surveillance and the exploitation of personal data. It has worked on privacy since 1990.
 - [Small Media](https://smallmedia.org.uk/) - A non-profit foundation that works to protect freedom of expression and access to information in politically closed societies. It carries out research, advocacy and training, and develops online resources to help human rights defenders work more safely.
 - [Team CommUNITY](https://www.digitalrights.community/) - A community network that supports digital rights defenders, civil society groups and journalists facing technology-related threats. It runs community spaces, a wiki, a job board and events to share knowledge and build cross-border solidarity.
@@ -158,7 +158,7 @@ Download the data as [JSON](https://github.com/olitreadwell/uk-tech-for-good/blo
 ### Climate technology
 
 - [Climate Emergency UK](https://climateemergency.uk/) - Assesses all UK councils on the action they have taken towards net zero and publishes the results as the Council Climate Action Scorecards. It also trains and supports residents, councillors and council staff to campaign for faster local climate action.
-- [ENHANCE Cities](https://enhancecities.org/) - This interactive mapping tool from UCL's Centre for Advanced Spatial Analysis visualises open data on transport accessibility, travel behaviour and urban development for towns and cities in England and Wales.
+- [<span>E</span>NHANCE Cities](https://enhancecities.org/) - This interactive mapping tool from the Centre for Advanced Spatial Analysis at University College London visualises open data on transport accessibility, travel behaviour and urban development for towns and cities in England and Wales.
 - [Green Web Foundation](https://www.thegreenwebfoundation.org) - A Dutch non-profit working towards a fossil-free internet by 2030. It maintains an open dataset of websites running on green energy and builds tools including CO2.js and carbon.txt.
 - [Open Climate Fix](https://openclimatefix.org) - A non-profit building open-source machine-learning forecasts for solar, wind, and cloud movements so electricity grids can use more renewable power. Its GB solar forecast is used by the National Energy System Operator.
 - [The Restart Project](https://therestartproject.org) - A people-powered social enterprise running community repair events, Fixing Factories and repair directories. It campaigns for the right to repair.
@@ -182,7 +182,7 @@ Download the data as [JSON](https://github.com/olitreadwell/uk-tech-for-good/blo
 ### Research and education technology
 
 - [Edinburgh Futures Institute](https://efi.ed.ac.uk/) - A University of Edinburgh institute for interdisciplinary learning, research and innovation. It supports data-intensive research and brings researchers, students, communities and industry together to work on complex social issues.
-- [Natural Language Processing Group, University of Sheffield](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) - The Natural Language Processing Group is a research group in the University of Sheffield's School of Computer Science. It is one of the largest language processing research groups in the UK.
+- [Natural Language Processing Group, University of Sheffield](https://sheffield.ac.uk/cs/research/groups/natural-language-processing) - The Natural Language Processing Group is a research group in the School of Computer Science at the University of Sheffield. It is one of the largest language processing research groups in the UK.
 - [Open Bioeconomy Lab](https://openbioeconomy.org/) - An interdisciplinary research group at the University of Cambridge that develops open source biomanufacturing tools and reagents. It works with partners in low-resource settings, particularly in the Global South, to make biological research more accessible.
 - [OpenSAFELY](https://www.opensafely.org) - A platform for analysing sensitive NHS records safely, built and maintained by the Bennett Institute at the University of Oxford with NHS England, TPP, Optum and collaborators.
 - [Oxford Internet Institute](https://www.oii.ox.ac.uk/) - The Oxford Internet Institute is a multidisciplinary teaching and research department at the University of Oxford, dedicated to the social science of the internet. It runs postgraduate programmes and research groups examining how digital technologies affect society, politics and the economy.
@@ -221,3 +221,32 @@ If you are listed here and want your information corrected or removed, use the i
 **GIS**: software for making and reading maps from data.
 
 **AI**: software that can do tasks that usually need human judgement.
+
+## Terms
+
+- Artificial intelligence (AI): software used to perform tasks that need human judgement.
+- Application programming interface (API): software used by one program to talk to another.
+- BBC (BBC): a name used by an organisation in this directory.
+- BY (BY): a name used by an organisation in this directory.
+- CAST (CAST): a name used by an organisation in this directory.
+- Creative Commons licence (CC): a public licence used for shared works.
+- CHC (CHC): a name used by an organisation in this directory.
+- CKAN (CKAN): a name used by an organisation in this directory.
+- CO2 (CO2): a name used by an organisation in this directory.
+- CSV (CSV): a name used by an organisation in this directory.
+- DG (DG): a name used by an organisation in this directory.
+- GB (GB): a name used by an organisation in this directory.
+- GDS (GDS): a name used by an organisation in this directory.
+- Geographic information system (GIS): software used for mapping and spatial data.
+- GOV (GOV): a name used by an organisation in this directory.
+- IATI (IATI): a name used by an organisation in this directory.
+- JSON (JSON): a name used by an organisation in this directory.
+- Massachusetts Institute of Technology licence (MIT): an open-source licence used for software.
+- Non-governmental organisation (NGO): a group that is not part of government.
+- NHANCE (NHANCE): a name used by an organisation in this directory.
+- NHS (NHS): a name used by an organisation in this directory.
+- RNIB (RNIB): a name used by an organisation in this directory.
+- SA (SA): a name used by an organisation in this directory.
+- TPP (TPP): a name used by an organisation in this directory.
+- UKHIH (UKHIH): a name used by an organisation in this directory.
+- WTRT (WTRT): a name used by an organisation in this directory.

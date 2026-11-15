@@ -15,7 +15,7 @@ Earlier history belongs to the NZ repository this one was derived from:
 - Seeded the directory with 34 UK entries, each verified against its own
   homepage on the day it was added. Regenerated `GUIDE.md` and the JSON and
   CSV exports from them.
-- Rewrote the README for the UK, including a status section that says plainly
+- Rewrote the readme file for the UK, including a status section that says plainly
   that the directory has just been seeded.
 - Rewrote `docs/how-entries-are-chosen.md`, `docs/known-gaps.md`,
   `docs/research-get-involved.md`, and `docs/roadmap.md` for the UK.

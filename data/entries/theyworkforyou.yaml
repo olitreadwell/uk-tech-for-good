@@ -2,7 +2,7 @@ name: TheyWorkForYou
 domain: civic-tech
 what: >-
   TheyWorkForYou is a mySociety civic-tech service that makes Hansard, votes and representatives
-  searchable across the UK's parliaments.
+  searchable across the parliaments of the UK.
 region: national
 website: https://www.theyworkforyou.com
 github: "https://github.com/mysociety/theyworkforyou"
