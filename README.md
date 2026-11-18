@@ -2,6 +2,12 @@
 
 A plain-language list of 100 organisations, projects, and networks in the United Kingdom that use technology for public good.
 
+## Mission
+
+UK Tech-for-Good exists to make the work of organisations in the United Kingdom using technology for public good easier to find, check, and support. It is volunteer-run and built in the open, so anyone can find prior art before starting something new.
+
+Volunteer-run. No ads or tracking. Not monetised.
+
 ## Contents
 
 - [Start here](#start-here)
