@@ -10,7 +10,9 @@ describe('Footer', () => {
     expect(screen.getByText('UK Tech-for-Good')).toBeInTheDocument();
     expect(screen.getByText('Browse')).toBeInTheDocument();
     expect(screen.getByText('Info')).toBeInTheDocument();
-  });
+  
+
+});
 
   it('has links to key pages', () => {
     render(<Footer />);
@@ -29,5 +31,14 @@ describe('Footer', () => {
   it('shows the latest entry verification instead of the build date', () => {
     render(<Footer latestVerified="2026-10-20" />);
     expect(screen.getByText(/Latest entry verification: 2026-10-20/)).toBeInTheDocument();
+  });
+
+  it('gives every footer link a 24px target', () => {
+    const { container } = render(<Footer />);
+    const links = Array.from(container.querySelectorAll('footer ul a'));
+    expect(links.length).toBeGreaterThan(0);
+    for (const link of links) {
+      expect(link.className).toContain('min-h-6');
+    }
   });
 });
